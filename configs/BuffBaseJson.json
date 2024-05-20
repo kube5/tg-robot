@@ -1,0 +1,23 @@
+[
+	{
+		"id":1,
+		"name":"Coin",
+		"type":1,
+		"path":"1000_1001_1002",
+		"info":"Get gold coins in small plots <color=#51FF4A> x3</color>"
+	},
+	{
+		"id":2,
+		"name":"Soul",
+		"type":2,
+		"path":"1000_1001_1002",
+		"info":"Get gold coins in small plots <color=#51FF4A> x3</color>"
+	},
+	{
+		"id":3,
+		"name":"Dice",
+		"type":3,
+		"path":"1000_1001_1002",
+		"info":"Get gold coins in small plots <color=#51FF4A> x3</color>"
+	}
+]
