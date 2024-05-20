@@ -1,0 +1,3041 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "vfx",
+    "deps": [],
+    "uuids": [
+        "01bc4171-5052-4ff2-b90d-28f325efa7f5",
+        "01bc4171-5052-4ff2-b90d-28f325efa7f5@6c48a",
+        "01bc4171-5052-4ff2-b90d-28f325efa7f5@f9941",
+        "028957867",
+        "03779e6f5",
+        "03eb27cd-2531-4845-9f2c-4f7df6fae78a",
+        "03eb27cd-2531-4845-9f2c-4f7df6fae78a@6c48a",
+        "03eb27cd-2531-4845-9f2c-4f7df6fae78a@f9941",
+        "046b7d2f-4f0b-4024-87d2-23346321e685",
+        "046b7d2f-4f0b-4024-87d2-23346321e685@6c48a",
+        "046b7d2f-4f0b-4024-87d2-23346321e685@f9941",
+        "05c36a302",
+        "063a68470",
+        "06c9122b-13e1-4193-81d2-455d9edef31d",
+        "06c9122b-13e1-4193-81d2-455d9edef31d@6c48a",
+        "06c9122b-13e1-4193-81d2-455d9edef31d@f9941",
+        "072de59c-ebdb-4f40-8d74-754a97033785",
+        "072de59c-ebdb-4f40-8d74-754a97033785@6c48a",
+        "072de59c-ebdb-4f40-8d74-754a97033785@f9941",
+        "09166ea45",
+        "096444626",
+        "09b7ff19-a58a-4d84-a2c3-667eb1d35100",
+        "09b7ff19-a58a-4d84-a2c3-667eb1d35100@6c48a",
+        "09b7ff19-a58a-4d84-a2c3-667eb1d35100@f9941",
+        "0a02c1d11",
+        "0abc864b-7c2b-4592-a1cf-09ac7ea78808",
+        "0abc864b-7c2b-4592-a1cf-09ac7ea78808@6c48a",
+        "0abc864b-7c2b-4592-a1cf-09ac7ea78808@f9941",
+        "0b0c4a805",
+        "0b39dec56",
+        "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f",
+        "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f@6c48a",
+        "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f@f9941",
+        "0baa48c3-cde8-413e-a393-176b229168a7",
+        "0c58eb27-7077-4295-b353-fd325063e00f",
+        "0c58eb27-7077-4295-b353-fd325063e00f@6c48a",
+        "0c58eb27-7077-4295-b353-fd325063e00f@f9941",
+        "0c61916c-8100-40f8-995c-8e1c3e1c1259",
+        "0c69d39e-e3c2-480d-876f-4314654f7b9b",
+        "0c69d39e-e3c2-480d-876f-4314654f7b9b@6c48a",
+        "0c69d39e-e3c2-480d-876f-4314654f7b9b@f9941",
+        "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d",
+        "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d@6c48a",
+        "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d@f9941",
+        "0d1efd0c-601f-41f9-9c40-96aa6ac6b814",
+        "0d1efd0c-601f-41f9-9c40-96aa6ac6b814@6c48a",
+        "0d1efd0c-601f-41f9-9c40-96aa6ac6b814@f9941",
+        "0d4e9140a",
+        "0fe797e22",
+        "11ff92a3-7d11-4d6c-aad4-aea884fe7e4c",
+        "128d261c-1f2f-48dc-a5fb-cbd9567cbd69",
+        "128d261c-1f2f-48dc-a5fb-cbd9567cbd69@6c48a",
+        "128d261c-1f2f-48dc-a5fb-cbd9567cbd69@f9941",
+        "1425ccf9-1d6e-43fd-adfb-8d339edfce9b",
+        "1425ccf9-1d6e-43fd-adfb-8d339edfce9b@6c48a",
+        "1425ccf9-1d6e-43fd-adfb-8d339edfce9b@f9941",
+        "15110fc6-50b9-44db-8f4a-00002462f065",
+        "15110fc6-50b9-44db-8f4a-00002462f065@6c48a",
+        "15110fc6-50b9-44db-8f4a-00002462f065@f9941",
+        "177404d0-823b-4a94-a70d-2ba146c269e4",
+        "177404d0-823b-4a94-a70d-2ba146c269e4@6c48a",
+        "177404d0-823b-4a94-a70d-2ba146c269e4@f9941",
+        "18d1063e-be1f-4134-a659-e6fcdf2e40ad",
+        "18d1063e-be1f-4134-a659-e6fcdf2e40ad@6c48a",
+        "18d1063e-be1f-4134-a659-e6fcdf2e40ad@f9941",
+        "1990315f-102a-49bd-b169-9f363bb0a06e",
+        "1990315f-102a-49bd-b169-9f363bb0a06e@6c48a",
+        "1990315f-102a-49bd-b169-9f363bb0a06e@f9941",
+        "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7",
+        "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7@6c48a",
+        "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7@f9941",
+        "1a8af718-02e7-483c-a799-fbcff1b6fec3",
+        "1a8af718-02e7-483c-a799-fbcff1b6fec3@6c48a",
+        "1a8af718-02e7-483c-a799-fbcff1b6fec3@f9941",
+        "1da4825a-6800-4a63-b989-da44d19737a3",
+        "1da4825a-6800-4a63-b989-da44d19737a3@6c48a",
+        "1da4825a-6800-4a63-b989-da44d19737a3@f9941",
+        "1dd20368-e68a-4452-98a7-6d5ed57ed781",
+        "1dd20368-e68a-4452-98a7-6d5ed57ed781@6c48a",
+        "1dd20368-e68a-4452-98a7-6d5ed57ed781@f9941",
+        "1e315b13-5750-4a5b-8fb5-d99d1c9e5756",
+        "1e315b13-5750-4a5b-8fb5-d99d1c9e5756@6c48a",
+        "1e315b13-5750-4a5b-8fb5-d99d1c9e5756@f9941",
+        "1f8a941a-ec25-4572-b26c-ecf9cf992af0",
+        "1f8a941a-ec25-4572-b26c-ecf9cf992af0@6c48a",
+        "1f8a941a-ec25-4572-b26c-ecf9cf992af0@f9941",
+        "215ba020-22bc-4448-b36d-6e6be4faa249",
+        "215ba020-22bc-4448-b36d-6e6be4faa249@6c48a",
+        "215ba020-22bc-4448-b36d-6e6be4faa249@f9941",
+        "2212c02c-1ed0-4b67-af0c-a9bba933276c",
+        "2212c02c-1ed0-4b67-af0c-a9bba933276c@6c48a",
+        "2212c02c-1ed0-4b67-af0c-a9bba933276c@f9941",
+        "2246ef25-67b0-46ae-8855-ccc91d220635",
+        "2246ef25-67b0-46ae-8855-ccc91d220635@6c48a",
+        "2246ef25-67b0-46ae-8855-ccc91d220635@f9941",
+        "23de18bf-80b4-4c6c-9b8f-293e08fd41a4",
+        "23de18bf-80b4-4c6c-9b8f-293e08fd41a4@6c48a",
+        "23de18bf-80b4-4c6c-9b8f-293e08fd41a4@f9941",
+        "243ccf0d-4638-490d-acf9-beb9f354248a",
+        "243ccf0d-4638-490d-acf9-beb9f354248a@6c48a",
+        "243ccf0d-4638-490d-acf9-beb9f354248a@f9941",
+        "251a8ae4-0b24-4886-9ca3-bb44334193b2",
+        "251a8ae4-0b24-4886-9ca3-bb44334193b2@6c48a",
+        "251a8ae4-0b24-4886-9ca3-bb44334193b2@f9941",
+        "26403666-1646-4780-add6-14e42e242003",
+        "26f19223-f255-4a97-be99-326e4d1a97ee",
+        "26f19223-f255-4a97-be99-326e4d1a97ee@6c48a",
+        "26f19223-f255-4a97-be99-326e4d1a97ee@f9941",
+        "274f275d-2725-4af2-b692-85b5cb384da9",
+        "274f275d-2725-4af2-b692-85b5cb384da9@6c48a",
+        "274f275d-2725-4af2-b692-85b5cb384da9@f9941",
+        "2784df61-b3ef-4b21-b7c6-436357a9a64f",
+        "2784df61-b3ef-4b21-b7c6-436357a9a64f@6c48a",
+        "2784df61-b3ef-4b21-b7c6-436357a9a64f@f9941",
+        "29189d26-ea90-4cfe-834c-b9abae8f578c",
+        "29189d26-ea90-4cfe-834c-b9abae8f578c@6c48a",
+        "29189d26-ea90-4cfe-834c-b9abae8f578c@f9941",
+        "2a58edc8-358b-4606-80a5-c5b0e0717c35",
+        "2a58edc8-358b-4606-80a5-c5b0e0717c35@6c48a",
+        "2a58edc8-358b-4606-80a5-c5b0e0717c35@f9941",
+        "2d809eb9-424b-4340-b07b-f3f448b66719",
+        "2d809eb9-424b-4340-b07b-f3f448b66719@6c48a",
+        "2d809eb9-424b-4340-b07b-f3f448b66719@f9941",
+        "2da6a914-49b0-4973-915b-b254deb43bc6",
+        "2da6a914-49b0-4973-915b-b254deb43bc6@6c48a",
+        "2da6a914-49b0-4973-915b-b254deb43bc6@f9941",
+        "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e",
+        "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e@6c48a",
+        "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e@f9941",
+        "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e",
+        "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e@6c48a",
+        "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e@f9941",
+        "30f81993-5f6d-496a-8f4a-20ebc04638a6",
+        "30f81993-5f6d-496a-8f4a-20ebc04638a6@6c48a",
+        "30f81993-5f6d-496a-8f4a-20ebc04638a6@f9941",
+        "318ecd75-6ee9-4cfc-8c8a-4c398b13567f",
+        "318ecd75-6ee9-4cfc-8c8a-4c398b13567f@6c48a",
+        "318ecd75-6ee9-4cfc-8c8a-4c398b13567f@f9941",
+        "33d27f47-9683-4e60-b7ed-b2d2351b4585",
+        "33d27f47-9683-4e60-b7ed-b2d2351b4585@6c48a",
+        "33d27f47-9683-4e60-b7ed-b2d2351b4585@f9941",
+        "3433f93b-fdc5-4529-9632-211e0de047d9",
+        "3433f93b-fdc5-4529-9632-211e0de047d9@6c48a",
+        "3433f93b-fdc5-4529-9632-211e0de047d9@f9941",
+        "3609c81f-54cc-4706-8db0-f97fa705a22a",
+        "3609c81f-54cc-4706-8db0-f97fa705a22a@6c48a",
+        "3609c81f-54cc-4706-8db0-f97fa705a22a@f9941",
+        "375bbb81-0221-420b-85af-f1a9fbc75b45",
+        "375bbb81-0221-420b-85af-f1a9fbc75b45@6c48a",
+        "375bbb81-0221-420b-85af-f1a9fbc75b45@f9941",
+        "3912b229-d894-43ca-ad28-8f434e8ab7e7",
+        "3912b229-d894-43ca-ad28-8f434e8ab7e7@6c48a",
+        "3912b229-d894-43ca-ad28-8f434e8ab7e7@f9941",
+        "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e",
+        "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e@6c48a",
+        "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e@f9941",
+        "3fa03a31-1765-4465-8dd7-7d0a54d66d3d",
+        "3fa03a31-1765-4465-8dd7-7d0a54d66d3d@6c48a",
+        "3fa03a31-1765-4465-8dd7-7d0a54d66d3d@f9941",
+        "41fd1bdc-c86d-4e0b-8523-a6d5e606c122",
+        "41fd1bdc-c86d-4e0b-8523-a6d5e606c122@6c48a",
+        "41fd1bdc-c86d-4e0b-8523-a6d5e606c122@f9941",
+        "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe",
+        "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe@6c48a",
+        "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe@f9941",
+        "4431166e-9e20-43a9-abc3-cdd6dbee8a55",
+        "44385682-fec5-4671-9a55-d25e3185dbb4",
+        "44385682-fec5-4671-9a55-d25e3185dbb4@6c48a",
+        "44385682-fec5-4671-9a55-d25e3185dbb4@f9941",
+        "496d1ebd-edc2-43fe-a6b2-1a223b0bb237",
+        "49a50e66-b007-4332-9359-c6782b5bd76f",
+        "49a50e66-b007-4332-9359-c6782b5bd76f@6c48a",
+        "49a50e66-b007-4332-9359-c6782b5bd76f@f9941",
+        "4dfd3012-24bd-4c99-812b-c0fcc3536a26",
+        "4dfd3012-24bd-4c99-812b-c0fcc3536a26@6c48a",
+        "4dfd3012-24bd-4c99-812b-c0fcc3536a26@f9941",
+        "4f6a9a82-c134-477e-aeec-0df3125067f3",
+        "4f6a9a82-c134-477e-aeec-0df3125067f3@6c48a",
+        "4f6a9a82-c134-477e-aeec-0df3125067f3@f9941",
+        "54603ea0-56a2-4a3a-ae6c-2545c6eb06d9",
+        "5a416405-59df-4f57-8203-342fb30fe264",
+        "5a416405-59df-4f57-8203-342fb30fe264@6c48a",
+        "5a416405-59df-4f57-8203-342fb30fe264@f9941",
+        "5d89d73f-6cb0-4616-80bc-b161deeb032b",
+        "5d89d73f-6cb0-4616-80bc-b161deeb032b@6c48a",
+        "5d89d73f-6cb0-4616-80bc-b161deeb032b@f9941",
+        "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7",
+        "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7@6c48a",
+        "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7@f9941",
+        "61e33d50-0d2d-4b56-b79f-d39aa06ba82b",
+        "61e33d50-0d2d-4b56-b79f-d39aa06ba82b@6c48a",
+        "61e33d50-0d2d-4b56-b79f-d39aa06ba82b@f9941",
+        "62b5d9f3-3377-4451-8aa2-43924b336e0b",
+        "62b5d9f3-3377-4451-8aa2-43924b336e0b@6c48a",
+        "62b5d9f3-3377-4451-8aa2-43924b336e0b@f9941",
+        "64d61a12-edd4-4bd7-b346-ae83299413fd",
+        "64d61a12-edd4-4bd7-b346-ae83299413fd@6c48a",
+        "64d61a12-edd4-4bd7-b346-ae83299413fd@f9941",
+        "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f",
+        "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f@6c48a",
+        "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f@f9941",
+        "683e51ab-e2c2-486e-8195-57d8bcce2dd8",
+        "69179665-b86d-4a12-8ec0-c1a59922509c",
+        "69179665-b86d-4a12-8ec0-c1a59922509c@6c48a",
+        "69179665-b86d-4a12-8ec0-c1a59922509c@f9941",
+        "6b824151-3420-4bd7-843d-ab43f897e198",
+        "6b824151-3420-4bd7-843d-ab43f897e198@6c48a",
+        "6b824151-3420-4bd7-843d-ab43f897e198@f9941",
+        "6bd0a98a-56f7-4050-b309-975f314f7a74",
+        "6bd0a98a-56f7-4050-b309-975f314f7a74@6c48a",
+        "6bd0a98a-56f7-4050-b309-975f314f7a74@f9941",
+        "6c362914-86a9-4b62-abd2-37ad44cb8cf8",
+        "6c362914-86a9-4b62-abd2-37ad44cb8cf8@6c48a",
+        "6c362914-86a9-4b62-abd2-37ad44cb8cf8@f9941",
+        "6c9858ec-614c-4ab9-8bb1-49e43df602c5",
+        "6c9858ec-614c-4ab9-8bb1-49e43df602c5@6c48a",
+        "6c9858ec-614c-4ab9-8bb1-49e43df602c5@f9941",
+        "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5",
+        "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5@6c48a",
+        "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5@f9941",
+        "6ec51a40-61cd-48e8-8487-26e2b61983f1",
+        "6ec51a40-61cd-48e8-8487-26e2b61983f1@6c48a",
+        "6ec51a40-61cd-48e8-8487-26e2b61983f1@f9941",
+        "710d4aa6-ae18-4374-8c61-49f7652f5f5a",
+        "710d4aa6-ae18-4374-8c61-49f7652f5f5a@6c48a",
+        "710d4aa6-ae18-4374-8c61-49f7652f5f5a@f9941",
+        "7221f577-4874-4dfe-b4be-7b58363aece8",
+        "7221f577-4874-4dfe-b4be-7b58363aece8@6c48a",
+        "7221f577-4874-4dfe-b4be-7b58363aece8@f9941",
+        "72d59a9a-118b-4dab-8497-5e6561f6b40d",
+        "72d59a9a-118b-4dab-8497-5e6561f6b40d@6c48a",
+        "72d59a9a-118b-4dab-8497-5e6561f6b40d@f9941",
+        "73e1076a-ce8e-499d-b014-a41489d4865f",
+        "73e1076a-ce8e-499d-b014-a41489d4865f@6c48a",
+        "73e1076a-ce8e-499d-b014-a41489d4865f@f9941",
+        "75000924-81a6-40a8-b937-a085008cef2b",
+        "7807767e-1365-4db4-a283-b6b007b291ce",
+        "7807767e-1365-4db4-a283-b6b007b291ce@6c48a",
+        "7807767e-1365-4db4-a283-b6b007b291ce@f9941",
+        "7829c993-8968-4370-b5cb-659d46c9ca46",
+        "7829c993-8968-4370-b5cb-659d46c9ca46@6c48a",
+        "7829c993-8968-4370-b5cb-659d46c9ca46@f9941",
+        "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893",
+        "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893@6c48a",
+        "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893@f9941",
+        "7b403d69-d9d9-41f9-aecf-d00b829a10c4",
+        "7b403d69-d9d9-41f9-aecf-d00b829a10c4@6c48a",
+        "7b403d69-d9d9-41f9-aecf-d00b829a10c4@f9941",
+        "7b7eed7b-262f-4eae-982f-af40606d2038",
+        "7b7eed7b-262f-4eae-982f-af40606d2038@6c48a",
+        "7b7eed7b-262f-4eae-982f-af40606d2038@f9941",
+        "7bb2097f-61e4-45c7-b16a-5b236ce85c66",
+        "7df6fdab-d379-4778-9cc5-7a83124c37a4",
+        "80d29680-fda7-40cb-acca-f455299a02a9",
+        "81284fb5-1925-4c29-9e63-2f9367c06b77",
+        "81284fb5-1925-4c29-9e63-2f9367c06b77@6c48a",
+        "81284fb5-1925-4c29-9e63-2f9367c06b77@f9941",
+        "8381eba7-b9f0-472a-8908-1dfdfa78c885",
+        "8381eba7-b9f0-472a-8908-1dfdfa78c885@6c48a",
+        "8381eba7-b9f0-472a-8908-1dfdfa78c885@f9941",
+        "8634a578-cde1-495e-aedc-a0690f155fd6",
+        "8634a578-cde1-495e-aedc-a0690f155fd6@6c48a",
+        "8634a578-cde1-495e-aedc-a0690f155fd6@f9941",
+        "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f",
+        "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f@6c48a",
+        "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f@f9941",
+        "8b504d22-fa13-4c3c-824b-8d188bde109f",
+        "8b504d22-fa13-4c3c-824b-8d188bde109f@6c48a",
+        "8b504d22-fa13-4c3c-824b-8d188bde109f@f9941",
+        "8cba7a6e-82f6-443b-bdd8-ce12b381e951",
+        "8cba7a6e-82f6-443b-bdd8-ce12b381e951@6c48a",
+        "8cba7a6e-82f6-443b-bdd8-ce12b381e951@f9941",
+        "8eb0e255-0f03-4481-ba71-504bb82f8057",
+        "8eb0e255-0f03-4481-ba71-504bb82f8057@6c48a",
+        "8eb0e255-0f03-4481-ba71-504bb82f8057@f9941",
+        "8f4efaf3-7151-43cf-8391-a465e319167c",
+        "8f4efaf3-7151-43cf-8391-a465e319167c@6c48a",
+        "8f4efaf3-7151-43cf-8391-a465e319167c@f9941",
+        "94484385-089b-43e2-bb38-95d66a4d3152",
+        "94484385-089b-43e2-bb38-95d66a4d3152@6c48a",
+        "94484385-089b-43e2-bb38-95d66a4d3152@f9941",
+        "95b3724c-3681-43c2-8663-e4b9f8a69fe5",
+        "95b3724c-3681-43c2-8663-e4b9f8a69fe5@6c48a",
+        "95b3724c-3681-43c2-8663-e4b9f8a69fe5@f9941",
+        "9691baf1-53c5-4b81-945e-02e317971356",
+        "9691baf1-53c5-4b81-945e-02e317971356@6c48a",
+        "9691baf1-53c5-4b81-945e-02e317971356@f9941",
+        "983c03f3-fb70-41aa-bdf7-16e461a18ffa",
+        "983c03f3-fb70-41aa-bdf7-16e461a18ffa@6c48a",
+        "983c03f3-fb70-41aa-bdf7-16e461a18ffa@f9941",
+        "9915fc43-5a39-4c9d-a211-e26132cc01a3",
+        "9915fc43-5a39-4c9d-a211-e26132cc01a3@6c48a",
+        "9915fc43-5a39-4c9d-a211-e26132cc01a3@f9941",
+        "9b116567-108e-431b-ac2c-6f608d8c5487",
+        "9b78a2dd-822d-4c82-813f-43a63cb04617",
+        "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f",
+        "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f@6c48a",
+        "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f@f9941",
+        "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f",
+        "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f@6c48a",
+        "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f@f9941",
+        "a91961d1-dedd-46c1-a019-7398054f9533",
+        "a91961d1-dedd-46c1-a019-7398054f9533@6c48a",
+        "a91961d1-dedd-46c1-a019-7398054f9533@f9941",
+        "aabb955a-dad4-424e-888f-16801c940079",
+        "aabb955a-dad4-424e-888f-16801c940079@6c48a",
+        "aabb955a-dad4-424e-888f-16801c940079@f9941",
+        "aaec441a-ce6f-41c9-babc-6a5c791efe7c",
+        "aaec441a-ce6f-41c9-babc-6a5c791efe7c@6c48a",
+        "aaec441a-ce6f-41c9-babc-6a5c791efe7c@f9941",
+        "abe4e579-9daa-4869-8087-a51332c15b0d",
+        "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b",
+        "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b@6c48a",
+        "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b@f9941",
+        "aed16e31-20c6-4d94-acf3-76b34967e4f6",
+        "aed16e31-20c6-4d94-acf3-76b34967e4f6@6c48a",
+        "aed16e31-20c6-4d94-acf3-76b34967e4f6@f9941",
+        "b1378d51-7f40-4f84-901a-ff3f2b1358ae",
+        "b1378d51-7f40-4f84-901a-ff3f2b1358ae@6c48a",
+        "b1378d51-7f40-4f84-901a-ff3f2b1358ae@f9941",
+        "b5d2f549-dda0-4c43-bd82-08df8984b2db",
+        "b5d2f549-dda0-4c43-bd82-08df8984b2db@6c48a",
+        "b5d2f549-dda0-4c43-bd82-08df8984b2db@f9941",
+        "c4d8ea12-d73c-44c6-a32e-2628d7cb874c",
+        "c4d8ea12-d73c-44c6-a32e-2628d7cb874c@6c48a",
+        "c4d8ea12-d73c-44c6-a32e-2628d7cb874c@f9941",
+        "c5165dc4-fc64-445d-977e-427b33efba2e",
+        "c5165dc4-fc64-445d-977e-427b33efba2e@6c48a",
+        "c5165dc4-fc64-445d-977e-427b33efba2e@f9941",
+        "c80fb424-ef21-4dfc-b336-1d7ed638b6a9",
+        "c80fb424-ef21-4dfc-b336-1d7ed638b6a9@6c48a",
+        "c80fb424-ef21-4dfc-b336-1d7ed638b6a9@f9941",
+        "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8",
+        "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8@6c48a",
+        "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8@f9941",
+        "c9183147-e459-4fba-8942-a985e0531836",
+        "cc3606b2-eaf2-426f-b40f-062d647c9b9d",
+        "cc3606b2-eaf2-426f-b40f-062d647c9b9d@6c48a",
+        "cc3606b2-eaf2-426f-b40f-062d647c9b9d@f9941",
+        "cd14e4b4-714e-454d-add0-1c77c2af4948",
+        "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28",
+        "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28@6c48a",
+        "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28@f9941",
+        "cdbfe388-9599-4eef-be64-da42c17c1637",
+        "cdbfe388-9599-4eef-be64-da42c17c1637@6c48a",
+        "cdbfe388-9599-4eef-be64-da42c17c1637@f9941",
+        "ce6df4c8-d7f4-456e-afcb-e06a02cf80da",
+        "ce6df4c8-d7f4-456e-afcb-e06a02cf80da@6c48a",
+        "ce6df4c8-d7f4-456e-afcb-e06a02cf80da@f9941",
+        "d13179e3-3f3b-479e-9676-2fa38275d27e",
+        "d13179e3-3f3b-479e-9676-2fa38275d27e@6c48a",
+        "d13179e3-3f3b-479e-9676-2fa38275d27e@f9941",
+        "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf",
+        "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf@6c48a",
+        "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf@f9941",
+        "d475e49a-317f-4eff-8dd1-29f29fa68199",
+        "d475e49a-317f-4eff-8dd1-29f29fa68199@6c48a",
+        "d475e49a-317f-4eff-8dd1-29f29fa68199@f9941",
+        "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6",
+        "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6@6c48a",
+        "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6@f9941",
+        "dbfef16e-3624-44c4-933e-08dee4bae4bb",
+        "dbfef16e-3624-44c4-933e-08dee4bae4bb@6c48a",
+        "dbfef16e-3624-44c4-933e-08dee4bae4bb@f9941",
+        "dd2243e5-4c11-400e-b185-941b74e2b4be",
+        "dd2243e5-4c11-400e-b185-941b74e2b4be@6c48a",
+        "dd2243e5-4c11-400e-b185-941b74e2b4be@f9941",
+        "e0cfcee2-b538-4016-98c2-808b5263e12f",
+        "e5cceb4b-804f-4c1c-8949-0c8002c6cdab",
+        "e5cceb4b-804f-4c1c-8949-0c8002c6cdab@6c48a",
+        "e5cceb4b-804f-4c1c-8949-0c8002c6cdab@f9941",
+        "e9c09e37-2b80-4a33-8482-76a7611a218c",
+        "eedc200e-45bb-4685-b9a8-d848feb107cd",
+        "eedc200e-45bb-4685-b9a8-d848feb107cd@6c48a",
+        "eedc200e-45bb-4685-b9a8-d848feb107cd@f9941",
+        "f341b290-6ab8-4b2c-97dc-12785ed3c286",
+        "f341b290-6ab8-4b2c-97dc-12785ed3c286@6c48a",
+        "f341b290-6ab8-4b2c-97dc-12785ed3c286@f9941",
+        "f39830c0-c9b2-41ea-b59c-55877e6af1e3",
+        "f39830c0-c9b2-41ea-b59c-55877e6af1e3@6c48a",
+        "f39830c0-c9b2-41ea-b59c-55877e6af1e3@f9941",
+        "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc",
+        "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc@6c48a",
+        "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc@f9941",
+        "f753a75c-5db9-48d5-a717-d19b0e52bcb8",
+        "f753a75c-5db9-48d5-a717-d19b0e52bcb8@6c48a",
+        "f753a75c-5db9-48d5-a717-d19b0e52bcb8@f9941",
+        "fa165e25-d7cc-49c4-8518-46a6b703081f",
+        "fa165e25-d7cc-49c4-8518-46a6b703081f@6c48a",
+        "fa165e25-d7cc-49c4-8518-46a6b703081f@f9941",
+        "fae16f48-9fc0-4f8a-a415-e87741203de3",
+        "fae16f48-9fc0-4f8a-a415-e87741203de3@6c48a",
+        "fae16f48-9fc0-4f8a-a415-e87741203de3@f9941",
+        "fbd641d8-0118-4e98-b193-ed11c687a467",
+        "fcbe3351-8153-43da-a91b-c71bd49c5dd8",
+        "fe289a7d-b6ea-4b64-99f6-208988deb9ce",
+        "fe289a7d-b6ea-4b64-99f6-208988deb9ce@6c48a",
+        "fe289a7d-b6ea-4b64-99f6-208988deb9ce@f9941"
+    ],
+    "paths": {
+        "dbfef16e-3624-44c4-933e-08dee4bae4bb": [
+            "resources/coin_reward/coin_reward_1000",
+            "cc.ImageAsset"
+        ],
+        "dbfef16e-3624-44c4-933e-08dee4bae4bb@6c48a": [
+            "resources/coin_reward/coin_reward_1000/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "dbfef16e-3624-44c4-933e-08dee4bae4bb@f9941": [
+            "resources/coin_reward/coin_reward_1000/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "18d1063e-be1f-4134-a659-e6fcdf2e40ad": [
+            "resources/coin_reward/coin_reward_1001",
+            "cc.ImageAsset"
+        ],
+        "18d1063e-be1f-4134-a659-e6fcdf2e40ad@6c48a": [
+            "resources/coin_reward/coin_reward_1001/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "18d1063e-be1f-4134-a659-e6fcdf2e40ad@f9941": [
+            "resources/coin_reward/coin_reward_1001/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b5d2f549-dda0-4c43-bd82-08df8984b2db": [
+            "resources/coin_reward/coin_reward_1002",
+            "cc.ImageAsset"
+        ],
+        "b5d2f549-dda0-4c43-bd82-08df8984b2db@6c48a": [
+            "resources/coin_reward/coin_reward_1002/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b5d2f549-dda0-4c43-bd82-08df8984b2db@f9941": [
+            "resources/coin_reward/coin_reward_1002/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "177404d0-823b-4a94-a70d-2ba146c269e4": [
+            "resources/coin_reward/coin_reward_1003",
+            "cc.ImageAsset"
+        ],
+        "177404d0-823b-4a94-a70d-2ba146c269e4@6c48a": [
+            "resources/coin_reward/coin_reward_1003/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "177404d0-823b-4a94-a70d-2ba146c269e4@f9941": [
+            "resources/coin_reward/coin_reward_1003/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4dfd3012-24bd-4c99-812b-c0fcc3536a26": [
+            "resources/coin_reward/coin_reward_1004",
+            "cc.ImageAsset"
+        ],
+        "4dfd3012-24bd-4c99-812b-c0fcc3536a26@6c48a": [
+            "resources/coin_reward/coin_reward_1004/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4dfd3012-24bd-4c99-812b-c0fcc3536a26@f9941": [
+            "resources/coin_reward/coin_reward_1004/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "cc3606b2-eaf2-426f-b40f-062d647c9b9d": [
+            "resources/coin_reward/coin_reward_1005",
+            "cc.ImageAsset"
+        ],
+        "cc3606b2-eaf2-426f-b40f-062d647c9b9d@6c48a": [
+            "resources/coin_reward/coin_reward_1005/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "cc3606b2-eaf2-426f-b40f-062d647c9b9d@f9941": [
+            "resources/coin_reward/coin_reward_1005/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3433f93b-fdc5-4529-9632-211e0de047d9": [
+            "resources/coin_reward/coin_reward_1006",
+            "cc.ImageAsset"
+        ],
+        "3433f93b-fdc5-4529-9632-211e0de047d9@6c48a": [
+            "resources/coin_reward/coin_reward_1006/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3433f93b-fdc5-4529-9632-211e0de047d9@f9941": [
+            "resources/coin_reward/coin_reward_1006/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1a8af718-02e7-483c-a799-fbcff1b6fec3": [
+            "resources/coin_reward/coin_reward_1007",
+            "cc.ImageAsset"
+        ],
+        "1a8af718-02e7-483c-a799-fbcff1b6fec3@6c48a": [
+            "resources/coin_reward/coin_reward_1007/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1a8af718-02e7-483c-a799-fbcff1b6fec3@f9941": [
+            "resources/coin_reward/coin_reward_1007/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1425ccf9-1d6e-43fd-adfb-8d339edfce9b": [
+            "resources/coin_reward/coin_reward_1008",
+            "cc.ImageAsset"
+        ],
+        "1425ccf9-1d6e-43fd-adfb-8d339edfce9b@6c48a": [
+            "resources/coin_reward/coin_reward_1008/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1425ccf9-1d6e-43fd-adfb-8d339edfce9b@f9941": [
+            "resources/coin_reward/coin_reward_1008/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b": [
+            "resources/coin_reward/coin_reward_1009",
+            "cc.ImageAsset"
+        ],
+        "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b@6c48a": [
+            "resources/coin_reward/coin_reward_1009/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b@f9941": [
+            "resources/coin_reward/coin_reward_1009/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6c9858ec-614c-4ab9-8bb1-49e43df602c5": [
+            "resources/coin_reward/coin_reward_1010",
+            "cc.ImageAsset"
+        ],
+        "6c9858ec-614c-4ab9-8bb1-49e43df602c5@6c48a": [
+            "resources/coin_reward/coin_reward_1010/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6c9858ec-614c-4ab9-8bb1-49e43df602c5@f9941": [
+            "resources/coin_reward/coin_reward_1010/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "29189d26-ea90-4cfe-834c-b9abae8f578c": [
+            "resources/coin_reward/coin_reward_1011",
+            "cc.ImageAsset"
+        ],
+        "29189d26-ea90-4cfe-834c-b9abae8f578c@6c48a": [
+            "resources/coin_reward/coin_reward_1011/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "29189d26-ea90-4cfe-834c-b9abae8f578c@f9941": [
+            "resources/coin_reward/coin_reward_1011/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "318ecd75-6ee9-4cfc-8c8a-4c398b13567f": [
+            "resources/coin_reward/coin_reward_1012",
+            "cc.ImageAsset"
+        ],
+        "318ecd75-6ee9-4cfc-8c8a-4c398b13567f@6c48a": [
+            "resources/coin_reward/coin_reward_1012/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "318ecd75-6ee9-4cfc-8c8a-4c398b13567f@f9941": [
+            "resources/coin_reward/coin_reward_1012/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0c58eb27-7077-4295-b353-fd325063e00f": [
+            "resources/coin_reward/coin_reward_1013",
+            "cc.ImageAsset"
+        ],
+        "0c58eb27-7077-4295-b353-fd325063e00f@6c48a": [
+            "resources/coin_reward/coin_reward_1013/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0c58eb27-7077-4295-b353-fd325063e00f@f9941": [
+            "resources/coin_reward/coin_reward_1013/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ce6df4c8-d7f4-456e-afcb-e06a02cf80da": [
+            "resources/coin_reward/coin_reward_1014",
+            "cc.ImageAsset"
+        ],
+        "ce6df4c8-d7f4-456e-afcb-e06a02cf80da@6c48a": [
+            "resources/coin_reward/coin_reward_1014/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ce6df4c8-d7f4-456e-afcb-e06a02cf80da@f9941": [
+            "resources/coin_reward/coin_reward_1014/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "cdbfe388-9599-4eef-be64-da42c17c1637": [
+            "resources/coin_reward/coin_reward_1015",
+            "cc.ImageAsset"
+        ],
+        "cdbfe388-9599-4eef-be64-da42c17c1637@6c48a": [
+            "resources/coin_reward/coin_reward_1015/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "cdbfe388-9599-4eef-be64-da42c17c1637@f9941": [
+            "resources/coin_reward/coin_reward_1015/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "75000924-81a6-40a8-b937-a085008cef2b": [
+            "resources/coin_reward/vfx-coin-reward",
+            "cc.Prefab"
+        ],
+        "e0cfcee2-b538-4016-98c2-808b5263e12f": [
+            "resources/coin_reward/vfx_coin_reward",
+            "cc.AnimationClip"
+        ],
+        "683e51ab-e2c2-486e-8195-57d8bcce2dd8": [
+            "resources/intrusion_door/vfx-intrusion-door",
+            "cc.Prefab"
+        ],
+        "80d29680-fda7-40cb-acca-f455299a02a9": [
+            "resources/intrusion_door/vfx_intrusion_door",
+            "cc.AnimationClip"
+        ],
+        "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5": [
+            "resources/intrusion_door/door1/intrusion_door_1_1",
+            "cc.ImageAsset"
+        ],
+        "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8eb0e255-0f03-4481-ba71-504bb82f8057": [
+            "resources/intrusion_door/door1/intrusion_door_1_2",
+            "cc.ImageAsset"
+        ],
+        "8eb0e255-0f03-4481-ba71-504bb82f8057@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8eb0e255-0f03-4481-ba71-504bb82f8057@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1f8a941a-ec25-4572-b26c-ecf9cf992af0": [
+            "resources/intrusion_door/door1/intrusion_door_1_3",
+            "cc.ImageAsset"
+        ],
+        "1f8a941a-ec25-4572-b26c-ecf9cf992af0@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1f8a941a-ec25-4572-b26c-ecf9cf992af0@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "94484385-089b-43e2-bb38-95d66a4d3152": [
+            "resources/intrusion_door/door1/intrusion_door_1_4",
+            "cc.ImageAsset"
+        ],
+        "94484385-089b-43e2-bb38-95d66a4d3152@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "94484385-089b-43e2-bb38-95d66a4d3152@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "64d61a12-edd4-4bd7-b346-ae83299413fd": [
+            "resources/intrusion_door/door1/intrusion_door_1_5",
+            "cc.ImageAsset"
+        ],
+        "64d61a12-edd4-4bd7-b346-ae83299413fd@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "64d61a12-edd4-4bd7-b346-ae83299413fd@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2a58edc8-358b-4606-80a5-c5b0e0717c35": [
+            "resources/intrusion_door/door1/intrusion_door_1_6",
+            "cc.ImageAsset"
+        ],
+        "2a58edc8-358b-4606-80a5-c5b0e0717c35@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2a58edc8-358b-4606-80a5-c5b0e0717c35@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "69179665-b86d-4a12-8ec0-c1a59922509c": [
+            "resources/intrusion_door/door1/intrusion_door_1_7",
+            "cc.ImageAsset"
+        ],
+        "69179665-b86d-4a12-8ec0-c1a59922509c@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "69179665-b86d-4a12-8ec0-c1a59922509c@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e5cceb4b-804f-4c1c-8949-0c8002c6cdab": [
+            "resources/intrusion_door/door1/intrusion_door_1_8",
+            "cc.ImageAsset"
+        ],
+        "e5cceb4b-804f-4c1c-8949-0c8002c6cdab@6c48a": [
+            "resources/intrusion_door/door1/intrusion_door_1_8/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e5cceb4b-804f-4c1c-8949-0c8002c6cdab@f9941": [
+            "resources/intrusion_door/door1/intrusion_door_1_8/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "26f19223-f255-4a97-be99-326e4d1a97ee": [
+            "resources/intrusion_door/door2/intrusion_door_2_1",
+            "cc.ImageAsset"
+        ],
+        "26f19223-f255-4a97-be99-326e4d1a97ee@6c48a": [
+            "resources/intrusion_door/door2/intrusion_door_2_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "26f19223-f255-4a97-be99-326e4d1a97ee@f9941": [
+            "resources/intrusion_door/door2/intrusion_door_2_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6bd0a98a-56f7-4050-b309-975f314f7a74": [
+            "resources/intrusion_door/door2/intrusion_door_2_2",
+            "cc.ImageAsset"
+        ],
+        "6bd0a98a-56f7-4050-b309-975f314f7a74@6c48a": [
+            "resources/intrusion_door/door2/intrusion_door_2_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6bd0a98a-56f7-4050-b309-975f314f7a74@f9941": [
+            "resources/intrusion_door/door2/intrusion_door_2_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "710d4aa6-ae18-4374-8c61-49f7652f5f5a": [
+            "resources/intrusion_door/door2/intrusion_door_2_3",
+            "cc.ImageAsset"
+        ],
+        "710d4aa6-ae18-4374-8c61-49f7652f5f5a@6c48a": [
+            "resources/intrusion_door/door2/intrusion_door_2_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "710d4aa6-ae18-4374-8c61-49f7652f5f5a@f9941": [
+            "resources/intrusion_door/door2/intrusion_door_2_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5a416405-59df-4f57-8203-342fb30fe264": [
+            "resources/intrusion_door/door2/intrusion_door_2_4",
+            "cc.ImageAsset"
+        ],
+        "5a416405-59df-4f57-8203-342fb30fe264@6c48a": [
+            "resources/intrusion_door/door2/intrusion_door_2_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5a416405-59df-4f57-8203-342fb30fe264@f9941": [
+            "resources/intrusion_door/door2/intrusion_door_2_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a91961d1-dedd-46c1-a019-7398054f9533": [
+            "resources/intrusion_door/door3/intrusion_door_3_1",
+            "cc.ImageAsset"
+        ],
+        "a91961d1-dedd-46c1-a019-7398054f9533@6c48a": [
+            "resources/intrusion_door/door3/intrusion_door_3_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a91961d1-dedd-46c1-a019-7398054f9533@f9941": [
+            "resources/intrusion_door/door3/intrusion_door_3_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d": [
+            "resources/intrusion_door/door3/intrusion_door_3_2",
+            "cc.ImageAsset"
+        ],
+        "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d@6c48a": [
+            "resources/intrusion_door/door3/intrusion_door_3_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d@f9941": [
+            "resources/intrusion_door/door3/intrusion_door_3_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "73e1076a-ce8e-499d-b014-a41489d4865f": [
+            "resources/intrusion_door/door3/intrusion_door_3_3",
+            "cc.ImageAsset"
+        ],
+        "73e1076a-ce8e-499d-b014-a41489d4865f@6c48a": [
+            "resources/intrusion_door/door3/intrusion_door_3_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "73e1076a-ce8e-499d-b014-a41489d4865f@f9941": [
+            "resources/intrusion_door/door3/intrusion_door_3_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "15110fc6-50b9-44db-8f4a-00002462f065": [
+            "resources/intrusion_door/door3/intrusion_door_3_4",
+            "cc.ImageAsset"
+        ],
+        "15110fc6-50b9-44db-8f4a-00002462f065@6c48a": [
+            "resources/intrusion_door/door3/intrusion_door_3_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "15110fc6-50b9-44db-8f4a-00002462f065@f9941": [
+            "resources/intrusion_door/door3/intrusion_door_3_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9915fc43-5a39-4c9d-a211-e26132cc01a3": [
+            "resources/intrusion_door/door3/intrusion_door_3_5",
+            "cc.ImageAsset"
+        ],
+        "9915fc43-5a39-4c9d-a211-e26132cc01a3@6c48a": [
+            "resources/intrusion_door/door3/intrusion_door_3_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "9915fc43-5a39-4c9d-a211-e26132cc01a3@f9941": [
+            "resources/intrusion_door/door3/intrusion_door_3_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7bb2097f-61e4-45c7-b16a-5b236ce85c66": [
+            "resources/invade_weapons/weapon_1/airboart/airboat",
+            "cc.AnimationClip"
+        ],
+        "7df6fdab-d379-4778-9cc5-7a83124c37a4": [
+            "resources/invade_weapons/weapon_1/airboart/airboat",
+            "cc.Prefab"
+        ],
+        "9691baf1-53c5-4b81-945e-02e317971356": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "9691baf1-53c5-4b81-945e-02e317971356@6c48a": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "9691baf1-53c5-4b81-945e-02e317971356@f9941": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c80fb424-ef21-4dfc-b336-1d7ed638b6a9": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "c80fb424-ef21-4dfc-b336-1d7ed638b6a9@6c48a": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c80fb424-ef21-4dfc-b336-1d7ed638b6a9@f9941": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fe289a7d-b6ea-4b64-99f6-208988deb9ce": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "fe289a7d-b6ea-4b64-99f6-208988deb9ce@6c48a": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fe289a7d-b6ea-4b64-99f6-208988deb9ce@f9941": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "72d59a9a-118b-4dab-8497-5e6561f6b40d": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "72d59a9a-118b-4dab-8497-5e6561f6b40d@6c48a": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "72d59a9a-118b-4dab-8497-5e6561f6b40d@f9941": [
+            "resources/invade_weapons/weapon_1/airboart/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "abe4e579-9daa-4869-8087-a51332c15b0d": [
+            "resources/invade_weapons/weapon_1/bomb/airboat-bomb",
+            "cc.AnimationClip"
+        ],
+        "e9c09e37-2b80-4a33-8482-76a7611a218c": [
+            "resources/invade_weapons/weapon_1/bomb/airboat-bomb",
+            "cc.Prefab"
+        ],
+        "1990315f-102a-49bd-b169-9f363bb0a06e": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "1990315f-102a-49bd-b169-9f363bb0a06e@6c48a": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1990315f-102a-49bd-b169-9f363bb0a06e@f9941": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c5165dc4-fc64-445d-977e-427b33efba2e": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "c5165dc4-fc64-445d-977e-427b33efba2e@6c48a": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c5165dc4-fc64-445d-977e-427b33efba2e@f9941": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6c362914-86a9-4b62-abd2-37ad44cb8cf8": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "6c362914-86a9-4b62-abd2-37ad44cb8cf8@6c48a": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6c362914-86a9-4b62-abd2-37ad44cb8cf8@f9941": [
+            "resources/invade_weapons/weapon_1/bomb/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c9183147-e459-4fba-8942-a985e0531836": [
+            "resources/invade_weapons/weapon_1/hit/airboat-boom",
+            "cc.AnimationClip"
+        ],
+        "fcbe3351-8153-43da-a91b-c71bd49c5dd8": [
+            "resources/invade_weapons/weapon_1/hit/airboat-boom",
+            "cc.Prefab"
+        ],
+        "9b78a2dd-822d-4c82-813f-43a63cb04617": [
+            "resources/invade_weapons/weapon_2/attack/spaceship-attack",
+            "cc.AnimationClip"
+        ],
+        "0c61916c-8100-40f8-995c-8e1c3e1c1259": [
+            "resources/invade_weapons/weapon_2/attack/spaceship-attack",
+            "cc.Prefab"
+        ],
+        "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f": [
+            "resources/invade_weapons/weapon_2/attack/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fa165e25-d7cc-49c4-8518-46a6b703081f": [
+            "resources/invade_weapons/weapon_2/attack/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "fa165e25-d7cc-49c4-8518-46a6b703081f@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fa165e25-d7cc-49c4-8518-46a6b703081f@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "33d27f47-9683-4e60-b7ed-b2d2351b4585": [
+            "resources/invade_weapons/weapon_2/attack/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "33d27f47-9683-4e60-b7ed-b2d2351b4585@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "33d27f47-9683-4e60-b7ed-b2d2351b4585@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c4d8ea12-d73c-44c6-a32e-2628d7cb874c": [
+            "resources/invade_weapons/weapon_2/attack/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "c4d8ea12-d73c-44c6-a32e-2628d7cb874c@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c4d8ea12-d73c-44c6-a32e-2628d7cb874c@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "243ccf0d-4638-490d-acf9-beb9f354248a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "243ccf0d-4638-490d-acf9-beb9f354248a@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "243ccf0d-4638-490d-acf9-beb9f354248a@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6b824151-3420-4bd7-843d-ab43f897e198": [
+            "resources/invade_weapons/weapon_2/attack/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "6b824151-3420-4bd7-843d-ab43f897e198@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6b824151-3420-4bd7-843d-ab43f897e198@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7b403d69-d9d9-41f9-aecf-d00b829a10c4": [
+            "resources/invade_weapons/weapon_2/attack/sprite_6",
+            "cc.ImageAsset"
+        ],
+        "7b403d69-d9d9-41f9-aecf-d00b829a10c4@6c48a": [
+            "resources/invade_weapons/weapon_2/attack/sprite_6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7b403d69-d9d9-41f9-aecf-d00b829a10c4@f9941": [
+            "resources/invade_weapons/weapon_2/attack/sprite_6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0baa48c3-cde8-413e-a393-176b229168a7": [
+            "resources/invade_weapons/weapon_2/hit/spaceship-boom",
+            "cc.AnimationClip"
+        ],
+        "9b116567-108e-431b-ac2c-6f608d8c5487": [
+            "resources/invade_weapons/weapon_2/hit/spaceship-boom",
+            "cc.Prefab"
+        ],
+        "26403666-1646-4780-add6-14e42e242003": [
+            "resources/invade_weapons/weapon_2/spaceship/spaceship",
+            "cc.Prefab"
+        ],
+        "54603ea0-56a2-4a3a-ae6c-2545c6eb06d9": [
+            "resources/invade_weapons/weapon_3/dragon/dragon-fire",
+            "cc.AnimationClip"
+        ],
+        "11ff92a3-7d11-4d6c-aad4-aea884fe7e4c": [
+            "resources/invade_weapons/weapon_3/dragon/dragon-fire",
+            "cc.Prefab"
+        ],
+        "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8634a578-cde1-495e-aedc-a0690f155fd6": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "8634a578-cde1-495e-aedc-a0690f155fd6@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8634a578-cde1-495e-aedc-a0690f155fd6@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "375bbb81-0221-420b-85af-f1a9fbc75b45": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "375bbb81-0221-420b-85af-f1a9fbc75b45@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "375bbb81-0221-420b-85af-f1a9fbc75b45@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d13179e3-3f3b-479e-9676-2fa38275d27e": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "d13179e3-3f3b-479e-9676-2fa38275d27e@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d13179e3-3f3b-479e-9676-2fa38275d27e@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7829c993-8968-4370-b5cb-659d46c9ca46": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "7829c993-8968-4370-b5cb-659d46c9ca46@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7829c993-8968-4370-b5cb-659d46c9ca46@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2d809eb9-424b-4340-b07b-f3f448b66719": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "2d809eb9-424b-4340-b07b-f3f448b66719@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2d809eb9-424b-4340-b07b-f3f448b66719@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4431166e-9e20-43a9-abc3-cdd6dbee8a55": [
+            "resources/invade_weapons/weapon_3/hit/dragon-fire-hit",
+            "cc.AnimationClip"
+        ],
+        "fbd641d8-0118-4e98-b193-ed11c687a467": [
+            "resources/invade_weapons/weapon_3/hit/dragon-fire-hit",
+            "cc.Prefab"
+        ],
+        "49a50e66-b007-4332-9359-c6782b5bd76f": [
+            "resources/invade_weapons/weapon_3/hit/sprite_00",
+            "cc.ImageAsset"
+        ],
+        "49a50e66-b007-4332-9359-c6782b5bd76f@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_00/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "49a50e66-b007-4332-9359-c6782b5bd76f@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_00/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0abc864b-7c2b-4592-a1cf-09ac7ea78808": [
+            "resources/invade_weapons/weapon_3/hit/sprite_01",
+            "cc.ImageAsset"
+        ],
+        "0abc864b-7c2b-4592-a1cf-09ac7ea78808@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_01/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0abc864b-7c2b-4592-a1cf-09ac7ea78808@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_01/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4f6a9a82-c134-477e-aeec-0df3125067f3": [
+            "resources/invade_weapons/weapon_3/hit/sprite_02",
+            "cc.ImageAsset"
+        ],
+        "4f6a9a82-c134-477e-aeec-0df3125067f3@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_02/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4f6a9a82-c134-477e-aeec-0df3125067f3@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_02/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "61e33d50-0d2d-4b56-b79f-d39aa06ba82b": [
+            "resources/invade_weapons/weapon_3/hit/sprite_03",
+            "cc.ImageAsset"
+        ],
+        "61e33d50-0d2d-4b56-b79f-d39aa06ba82b@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_03/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "61e33d50-0d2d-4b56-b79f-d39aa06ba82b@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_03/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "09b7ff19-a58a-4d84-a2c3-667eb1d35100": [
+            "resources/invade_weapons/weapon_3/hit/sprite_04",
+            "cc.ImageAsset"
+        ],
+        "09b7ff19-a58a-4d84-a2c3-667eb1d35100@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_04/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "09b7ff19-a58a-4d84-a2c3-667eb1d35100@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_04/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "072de59c-ebdb-4f40-8d74-754a97033785": [
+            "resources/invade_weapons/weapon_3/hit/sprite_05",
+            "cc.ImageAsset"
+        ],
+        "072de59c-ebdb-4f40-8d74-754a97033785@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_05/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "072de59c-ebdb-4f40-8d74-754a97033785@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_05/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "62b5d9f3-3377-4451-8aa2-43924b336e0b": [
+            "resources/invade_weapons/weapon_3/hit/sprite_06",
+            "cc.ImageAsset"
+        ],
+        "62b5d9f3-3377-4451-8aa2-43924b336e0b@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_06/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "62b5d9f3-3377-4451-8aa2-43924b336e0b@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_06/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "215ba020-22bc-4448-b36d-6e6be4faa249": [
+            "resources/invade_weapons/weapon_3/hit/sprite_07",
+            "cc.ImageAsset"
+        ],
+        "215ba020-22bc-4448-b36d-6e6be4faa249@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_07/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "215ba020-22bc-4448-b36d-6e6be4faa249@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_07/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2212c02c-1ed0-4b67-af0c-a9bba933276c": [
+            "resources/invade_weapons/weapon_3/hit/sprite_08",
+            "cc.ImageAsset"
+        ],
+        "2212c02c-1ed0-4b67-af0c-a9bba933276c@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_08/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2212c02c-1ed0-4b67-af0c-a9bba933276c@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_08/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7b7eed7b-262f-4eae-982f-af40606d2038": [
+            "resources/invade_weapons/weapon_3/hit/sprite_09",
+            "cc.ImageAsset"
+        ],
+        "7b7eed7b-262f-4eae-982f-af40606d2038@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_09/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7b7eed7b-262f-4eae-982f-af40606d2038@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_09/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "251a8ae4-0b24-4886-9ca3-bb44334193b2": [
+            "resources/invade_weapons/weapon_3/hit/sprite_10",
+            "cc.ImageAsset"
+        ],
+        "251a8ae4-0b24-4886-9ca3-bb44334193b2@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_10/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "251a8ae4-0b24-4886-9ca3-bb44334193b2@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_10/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6": [
+            "resources/invade_weapons/weapon_3/hit/sprite_11",
+            "cc.ImageAsset"
+        ],
+        "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_11/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_11/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8cba7a6e-82f6-443b-bdd8-ce12b381e951": [
+            "resources/invade_weapons/weapon_3/hit/sprite_12",
+            "cc.ImageAsset"
+        ],
+        "8cba7a6e-82f6-443b-bdd8-ce12b381e951@6c48a": [
+            "resources/invade_weapons/weapon_3/hit/sprite_12/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8cba7a6e-82f6-443b-bdd8-ce12b381e951@f9941": [
+            "resources/invade_weapons/weapon_3/hit/sprite_12/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3fa03a31-1765-4465-8dd7-7d0a54d66d3d": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "3fa03a31-1765-4465-8dd7-7d0a54d66d3d@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3fa03a31-1765-4465-8dd7-7d0a54d66d3d@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7807767e-1365-4db4-a283-b6b007b291ce": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "7807767e-1365-4db4-a283-b6b007b291ce@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7807767e-1365-4db4-a283-b6b007b291ce@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8b504d22-fa13-4c3c-824b-8d188bde109f": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "8b504d22-fa13-4c3c-824b-8d188bde109f@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8b504d22-fa13-4c3c-824b-8d188bde109f@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1e315b13-5750-4a5b-8fb5-d99d1c9e5756": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "1e315b13-5750-4a5b-8fb5-d99d1c9e5756@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1e315b13-5750-4a5b-8fb5-d99d1c9e5756@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dd2243e5-4c11-400e-b185-941b74e2b4be": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "dd2243e5-4c11-400e-b185-941b74e2b4be@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "dd2243e5-4c11-400e-b185-941b74e2b4be@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8f4efaf3-7151-43cf-8391-a465e319167c": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_6",
+            "cc.ImageAsset"
+        ],
+        "8f4efaf3-7151-43cf-8391-a465e319167c@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8f4efaf3-7151-43cf-8391-a465e319167c@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "06c9122b-13e1-4193-81d2-455d9edef31d": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_7",
+            "cc.ImageAsset"
+        ],
+        "06c9122b-13e1-4193-81d2-455d9edef31d@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "06c9122b-13e1-4193-81d2-455d9edef31d@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_8",
+            "cc.ImageAsset"
+        ],
+        "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_8/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_8/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0c69d39e-e3c2-480d-876f-4314654f7b9b": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_9",
+            "cc.ImageAsset"
+        ],
+        "0c69d39e-e3c2-480d-876f-4314654f7b9b@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_9/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0c69d39e-e3c2-480d-876f-4314654f7b9b@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_1/sprite_9/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "aed16e31-20c6-4d94-acf3-76b34967e4f6": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "aed16e31-20c6-4d94-acf3-76b34967e4f6@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "aed16e31-20c6-4d94-acf3-76b34967e4f6@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b1378d51-7f40-4f84-901a-ff3f2b1358ae": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "b1378d51-7f40-4f84-901a-ff3f2b1358ae@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b1378d51-7f40-4f84-901a-ff3f2b1358ae@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "01bc4171-5052-4ff2-b90d-28f325efa7f5": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "01bc4171-5052-4ff2-b90d-28f325efa7f5@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "01bc4171-5052-4ff2-b90d-28f325efa7f5@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2da6a914-49b0-4973-915b-b254deb43bc6": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "2da6a914-49b0-4973-915b-b254deb43bc6@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2da6a914-49b0-4973-915b-b254deb43bc6@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2784df61-b3ef-4b21-b7c6-436357a9a64f": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "2784df61-b3ef-4b21-b7c6-436357a9a64f@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2784df61-b3ef-4b21-b7c6-436357a9a64f@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_2/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "95b3724c-3681-43c2-8663-e4b9f8a69fe5": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "95b3724c-3681-43c2-8663-e4b9f8a69fe5@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "95b3724c-3681-43c2-8663-e4b9f8a69fe5@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "aabb955a-dad4-424e-888f-16801c940079": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "aabb955a-dad4-424e-888f-16801c940079@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "aabb955a-dad4-424e-888f-16801c940079@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "30f81993-5f6d-496a-8f4a-20ebc04638a6": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "30f81993-5f6d-496a-8f4a-20ebc04638a6@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "30f81993-5f6d-496a-8f4a-20ebc04638a6@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7221f577-4874-4dfe-b4be-7b58363aece8": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "7221f577-4874-4dfe-b4be-7b58363aece8@6c48a": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7221f577-4874-4dfe-b4be-7b58363aece8@f9941": [
+            "resources/invade_weapons/weapon_1/hit/boom_3/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "aaec441a-ce6f-41c9-babc-6a5c791efe7c": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "aaec441a-ce6f-41c9-babc-6a5c791efe7c@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "aaec441a-ce6f-41c9-babc-6a5c791efe7c@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0d1efd0c-601f-41f9-9c40-96aa6ac6b814": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "0d1efd0c-601f-41f9-9c40-96aa6ac6b814@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0d1efd0c-601f-41f9-9c40-96aa6ac6b814@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fae16f48-9fc0-4f8a-a415-e87741203de3": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "fae16f48-9fc0-4f8a-a415-e87741203de3@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fae16f48-9fc0-4f8a-a415-e87741203de3@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "44385682-fec5-4671-9a55-d25e3185dbb4": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "44385682-fec5-4671-9a55-d25e3185dbb4@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "44385682-fec5-4671-9a55-d25e3185dbb4@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f753a75c-5db9-48d5-a717-d19b0e52bcb8": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_6",
+            "cc.ImageAsset"
+        ],
+        "f753a75c-5db9-48d5-a717-d19b0e52bcb8@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f753a75c-5db9-48d5-a717-d19b0e52bcb8@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d475e49a-317f-4eff-8dd1-29f29fa68199": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_7",
+            "cc.ImageAsset"
+        ],
+        "d475e49a-317f-4eff-8dd1-29f29fa68199@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d475e49a-317f-4eff-8dd1-29f29fa68199@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_1/sprite_7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f39830c0-c9b2-41ea-b59c-55877e6af1e3": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "f39830c0-c9b2-41ea-b59c-55877e6af1e3@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f39830c0-c9b2-41ea-b59c-55877e6af1e3@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "983c03f3-fb70-41aa-bdf7-16e461a18ffa": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "983c03f3-fb70-41aa-bdf7-16e461a18ffa@6c48a": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "983c03f3-fb70-41aa-bdf7-16e461a18ffa@f9941": [
+            "resources/invade_weapons/weapon_2/hit/boom_2/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "cd14e4b4-714e-454d-add0-1c77c2af4948": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/spaceship-fire",
+            "cc.AnimationClip"
+        ],
+        "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "81284fb5-1925-4c29-9e63-2f9367c06b77": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "81284fb5-1925-4c29-9e63-2f9367c06b77@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "81284fb5-1925-4c29-9e63-2f9367c06b77@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2246ef25-67b0-46ae-8855-ccc91d220635": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "2246ef25-67b0-46ae-8855-ccc91d220635@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2246ef25-67b0-46ae-8855-ccc91d220635@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "128d261c-1f2f-48dc-a5fb-cbd9567cbd69": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_6",
+            "cc.ImageAsset"
+        ],
+        "128d261c-1f2f-48dc-a5fb-cbd9567cbd69@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "128d261c-1f2f-48dc-a5fb-cbd9567cbd69@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3609c81f-54cc-4706-8db0-f97fa705a22a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_7",
+            "cc.ImageAsset"
+        ],
+        "3609c81f-54cc-4706-8db0-f97fa705a22a@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3609c81f-54cc-4706-8db0-f97fa705a22a@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6ec51a40-61cd-48e8-8487-26e2b61983f1": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_8",
+            "cc.ImageAsset"
+        ],
+        "6ec51a40-61cd-48e8-8487-26e2b61983f1@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_8/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6ec51a40-61cd-48e8-8487-26e2b61983f1@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_8/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "274f275d-2725-4af2-b692-85b5cb384da9": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_9",
+            "cc.ImageAsset"
+        ],
+        "274f275d-2725-4af2-b692-85b5cb384da9@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_9/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "274f275d-2725-4af2-b692-85b5cb384da9@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/attack/sprite_9/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "496d1ebd-edc2-43fe-a6b2-1a223b0bb237": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/spaceship-idle",
+            "cc.AnimationClip"
+        ],
+        "41fd1bdc-c86d-4e0b-8523-a6d5e606c122": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "41fd1bdc-c86d-4e0b-8523-a6d5e606c122@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "41fd1bdc-c86d-4e0b-8523-a6d5e606c122@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8381eba7-b9f0-472a-8908-1dfdfa78c885": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "8381eba7-b9f0-472a-8908-1dfdfa78c885@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8381eba7-b9f0-472a-8908-1dfdfa78c885@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f341b290-6ab8-4b2c-97dc-12785ed3c286": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "f341b290-6ab8-4b2c-97dc-12785ed3c286@6c48a": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f341b290-6ab8-4b2c-97dc-12785ed3c286@f9941": [
+            "resources/invade_weapons/weapon_2/spaceship/idle/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "23de18bf-80b4-4c6c-9b8f-293e08fd41a4": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_0",
+            "cc.ImageAsset"
+        ],
+        "23de18bf-80b4-4c6c-9b8f-293e08fd41a4@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "23de18bf-80b4-4c6c-9b8f-293e08fd41a4@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "046b7d2f-4f0b-4024-87d2-23346321e685": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_1",
+            "cc.ImageAsset"
+        ],
+        "046b7d2f-4f0b-4024-87d2-23346321e685@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "046b7d2f-4f0b-4024-87d2-23346321e685@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3912b229-d894-43ca-ad28-8f434e8ab7e7": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_2",
+            "cc.ImageAsset"
+        ],
+        "3912b229-d894-43ca-ad28-8f434e8ab7e7@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3912b229-d894-43ca-ad28-8f434e8ab7e7@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eedc200e-45bb-4685-b9a8-d848feb107cd": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_3",
+            "cc.ImageAsset"
+        ],
+        "eedc200e-45bb-4685-b9a8-d848feb107cd@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "eedc200e-45bb-4685-b9a8-d848feb107cd@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1da4825a-6800-4a63-b989-da44d19737a3": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_4",
+            "cc.ImageAsset"
+        ],
+        "1da4825a-6800-4a63-b989-da44d19737a3@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1da4825a-6800-4a63-b989-da44d19737a3@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5d89d73f-6cb0-4616-80bc-b161deeb032b": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_5",
+            "cc.ImageAsset"
+        ],
+        "5d89d73f-6cb0-4616-80bc-b161deeb032b@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5d89d73f-6cb0-4616-80bc-b161deeb032b@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "03eb27cd-2531-4845-9f2c-4f7df6fae78a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_6",
+            "cc.ImageAsset"
+        ],
+        "03eb27cd-2531-4845-9f2c-4f7df6fae78a@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "03eb27cd-2531-4845-9f2c-4f7df6fae78a@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1dd20368-e68a-4452-98a7-6d5ed57ed781": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_7",
+            "cc.ImageAsset"
+        ],
+        "1dd20368-e68a-4452-98a7-6d5ed57ed781@6c48a": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1dd20368-e68a-4452-98a7-6d5ed57ed781@f9941": [
+            "resources/invade_weapons/weapon_3/dragon/fire/sprite_7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0a02c1d11": [
+            "0abc864b-7c2b-4592-a1cf-09ac7ea78808@6c48a",
+            "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f@6c48a",
+            "0c58eb27-7077-4295-b353-fd325063e00f@6c48a",
+            "0c69d39e-e3c2-480d-876f-4314654f7b9b@6c48a",
+            "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d@6c48a",
+            "0d1efd0c-601f-41f9-9c40-96aa6ac6b814@6c48a",
+            "1a8af718-02e7-483c-a799-fbcff1b6fec3@6c48a",
+            "01bc4171-5052-4ff2-b90d-28f325efa7f5@6c48a",
+            "1da4825a-6800-4a63-b989-da44d19737a3@6c48a",
+            "1dd20368-e68a-4452-98a7-6d5ed57ed781@6c48a",
+            "1e315b13-5750-4a5b-8fb5-d99d1c9e5756@6c48a",
+            "1f8a941a-ec25-4572-b26c-ecf9cf992af0@6c48a",
+            "2a58edc8-358b-4606-80a5-c5b0e0717c35@6c48a",
+            "2d809eb9-424b-4340-b07b-f3f448b66719@6c48a",
+            "2da6a914-49b0-4973-915b-b254deb43bc6@6c48a",
+            "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e@6c48a",
+            "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e@6c48a",
+            "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e@6c48a",
+            "03eb27cd-2531-4845-9f2c-4f7df6fae78a@6c48a",
+            "3fa03a31-1765-4465-8dd7-7d0a54d66d3d@6c48a",
+            "4dfd3012-24bd-4c99-812b-c0fcc3536a26@6c48a",
+            "4f6a9a82-c134-477e-aeec-0df3125067f3@6c48a",
+            "5a416405-59df-4f57-8203-342fb30fe264@6c48a",
+            "5d89d73f-6cb0-4616-80bc-b161deeb032b@6c48a",
+            "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7@6c48a",
+            "6b824151-3420-4bd7-843d-ab43f897e198@6c48a",
+            "6bd0a98a-56f7-4050-b309-975f314f7a74@6c48a",
+            "06c9122b-13e1-4193-81d2-455d9edef31d@6c48a",
+            "6c9858ec-614c-4ab9-8bb1-49e43df602c5@6c48a",
+            "6c362914-86a9-4b62-abd2-37ad44cb8cf8@6c48a",
+            "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5@6c48a",
+            "6ec51a40-61cd-48e8-8487-26e2b61983f1@6c48a",
+            "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893@6c48a",
+            "7b7eed7b-262f-4eae-982f-af40606d2038@6c48a",
+            "7b403d69-d9d9-41f9-aecf-d00b829a10c4@6c48a",
+            "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f@6c48a",
+            "8b504d22-fa13-4c3c-824b-8d188bde109f@6c48a",
+            "8cba7a6e-82f6-443b-bdd8-ce12b381e951@6c48a",
+            "8eb0e255-0f03-4481-ba71-504bb82f8057@6c48a",
+            "8f4efaf3-7151-43cf-8391-a465e319167c@6c48a",
+            "09b7ff19-a58a-4d84-a2c3-667eb1d35100@6c48a",
+            "18d1063e-be1f-4134-a659-e6fcdf2e40ad@6c48a",
+            "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7@6c48a",
+            "23de18bf-80b4-4c6c-9b8f-293e08fd41a4@6c48a",
+            "26f19223-f255-4a97-be99-326e4d1a97ee@6c48a",
+            "30f81993-5f6d-496a-8f4a-20ebc04638a6@6c48a",
+            "33d27f47-9683-4e60-b7ed-b2d2351b4585@6c48a",
+            "41fd1bdc-c86d-4e0b-8523-a6d5e606c122@6c48a",
+            "046b7d2f-4f0b-4024-87d2-23346321e685@6c48a",
+            "49a50e66-b007-4332-9359-c6782b5bd76f@6c48a",
+            "61e33d50-0d2d-4b56-b79f-d39aa06ba82b@6c48a",
+            "62b5d9f3-3377-4451-8aa2-43924b336e0b@6c48a",
+            "64d61a12-edd4-4bd7-b346-ae83299413fd@6c48a",
+            "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f@6c48a",
+            "72d59a9a-118b-4dab-8497-5e6561f6b40d@6c48a",
+            "072de59c-ebdb-4f40-8d74-754a97033785@6c48a",
+            "73e1076a-ce8e-499d-b014-a41489d4865f@6c48a",
+            "95b3724c-3681-43c2-8663-e4b9f8a69fe5@6c48a",
+            "128d261c-1f2f-48dc-a5fb-cbd9567cbd69@6c48a",
+            "215ba020-22bc-4448-b36d-6e6be4faa249@6c48a",
+            "243ccf0d-4638-490d-acf9-beb9f354248a@6c48a",
+            "251a8ae4-0b24-4886-9ca3-bb44334193b2@6c48a",
+            "274f275d-2725-4af2-b692-85b5cb384da9@6c48a",
+            "318ecd75-6ee9-4cfc-8c8a-4c398b13567f@6c48a",
+            "375bbb81-0221-420b-85af-f1a9fbc75b45@6c48a",
+            "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe@6c48a",
+            "710d4aa6-ae18-4374-8c61-49f7652f5f5a@6c48a",
+            "983c03f3-fb70-41aa-bdf7-16e461a18ffa@6c48a",
+            "1425ccf9-1d6e-43fd-adfb-8d339edfce9b@6c48a",
+            "2212c02c-1ed0-4b67-af0c-a9bba933276c@6c48a",
+            "2246ef25-67b0-46ae-8855-ccc91d220635@6c48a",
+            "2784df61-b3ef-4b21-b7c6-436357a9a64f@6c48a",
+            "3433f93b-fdc5-4529-9632-211e0de047d9@6c48a",
+            "3609c81f-54cc-4706-8db0-f97fa705a22a@6c48a",
+            "3912b229-d894-43ca-ad28-8f434e8ab7e7@6c48a",
+            "7221f577-4874-4dfe-b4be-7b58363aece8@6c48a",
+            "7829c993-8968-4370-b5cb-659d46c9ca46@6c48a",
+            "8381eba7-b9f0-472a-8908-1dfdfa78c885@6c48a",
+            "8634a578-cde1-495e-aedc-a0690f155fd6@6c48a",
+            "9691baf1-53c5-4b81-945e-02e317971356@6c48a",
+            "9915fc43-5a39-4c9d-a211-e26132cc01a3@6c48a",
+            "15110fc6-50b9-44db-8f4a-00002462f065@6c48a",
+            "29189d26-ea90-4cfe-834c-b9abae8f578c@6c48a",
+            "81284fb5-1925-4c29-9e63-2f9367c06b77@6c48a",
+            "177404d0-823b-4a94-a70d-2ba146c269e4@6c48a",
+            "1990315f-102a-49bd-b169-9f363bb0a06e@6c48a",
+            "7807767e-1365-4db4-a283-b6b007b291ce@6c48a",
+            "44385682-fec5-4671-9a55-d25e3185dbb4@6c48a",
+            "69179665-b86d-4a12-8ec0-c1a59922509c@6c48a",
+            "94484385-089b-43e2-bb38-95d66a4d3152@6c48a",
+            "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f@6c48a",
+            "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f@6c48a",
+            "a91961d1-dedd-46c1-a019-7398054f9533@6c48a",
+            "aabb955a-dad4-424e-888f-16801c940079@6c48a",
+            "aaec441a-ce6f-41c9-babc-6a5c791efe7c@6c48a",
+            "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b@6c48a",
+            "aed16e31-20c6-4d94-acf3-76b34967e4f6@6c48a",
+            "b5d2f549-dda0-4c43-bd82-08df8984b2db@6c48a",
+            "b1378d51-7f40-4f84-901a-ff3f2b1358ae@6c48a",
+            "c4d8ea12-d73c-44c6-a32e-2628d7cb874c@6c48a",
+            "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8@6c48a",
+            "c80fb424-ef21-4dfc-b336-1d7ed638b6a9@6c48a",
+            "c5165dc4-fc64-445d-977e-427b33efba2e@6c48a",
+            "cc3606b2-eaf2-426f-b40f-062d647c9b9d@6c48a",
+            "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28@6c48a",
+            "cdbfe388-9599-4eef-be64-da42c17c1637@6c48a",
+            "ce6df4c8-d7f4-456e-afcb-e06a02cf80da@6c48a",
+            "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf@6c48a",
+            "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6@6c48a",
+            "d475e49a-317f-4eff-8dd1-29f29fa68199@6c48a",
+            "d13179e3-3f3b-479e-9676-2fa38275d27e@6c48a",
+            "dbfef16e-3624-44c4-933e-08dee4bae4bb@6c48a",
+            "dd2243e5-4c11-400e-b185-941b74e2b4be@6c48a",
+            "e5cceb4b-804f-4c1c-8949-0c8002c6cdab@6c48a",
+            "eedc200e-45bb-4685-b9a8-d848feb107cd@6c48a",
+            "f341b290-6ab8-4b2c-97dc-12785ed3c286@6c48a",
+            "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc@6c48a",
+            "f753a75c-5db9-48d5-a717-d19b0e52bcb8@6c48a",
+            "f39830c0-c9b2-41ea-b59c-55877e6af1e3@6c48a",
+            "fa165e25-d7cc-49c4-8518-46a6b703081f@6c48a",
+            "fae16f48-9fc0-4f8a-a415-e87741203de3@6c48a",
+            "fe289a7d-b6ea-4b64-99f6-208988deb9ce@6c48a"
+        ],
+        "0fe797e22": [
+            "0d1efd0c-601f-41f9-9c40-96aa6ac6b814@f9941",
+            "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e@f9941",
+            "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe@f9941",
+            "44385682-fec5-4671-9a55-d25e3185dbb4@f9941",
+            "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f@f9941",
+            "983c03f3-fb70-41aa-bdf7-16e461a18ffa@f9941",
+            "aaec441a-ce6f-41c9-babc-6a5c791efe7c@f9941",
+            "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28@f9941",
+            "d475e49a-317f-4eff-8dd1-29f29fa68199@f9941",
+            "f39830c0-c9b2-41ea-b59c-55877e6af1e3@f9941",
+            "f753a75c-5db9-48d5-a717-d19b0e52bcb8@f9941",
+            "fae16f48-9fc0-4f8a-a415-e87741203de3@f9941"
+        ],
+        "09166ea45": [
+            "0c61916c-8100-40f8-995c-8e1c3e1c1259",
+            "243ccf0d-4638-490d-acf9-beb9f354248a@f9941",
+            "33d27f47-9683-4e60-b7ed-b2d2351b4585@f9941",
+            "6b824151-3420-4bd7-843d-ab43f897e198@f9941",
+            "7b403d69-d9d9-41f9-aecf-d00b829a10c4@f9941",
+            "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f@f9941",
+            "c4d8ea12-d73c-44c6-a32e-2628d7cb874c@f9941",
+            "fa165e25-d7cc-49c4-8518-46a6b703081f@f9941"
+        ],
+        "03779e6f5": [
+            "03eb27cd-2531-4845-9f2c-4f7df6fae78a@f9941",
+            "046b7d2f-4f0b-4024-87d2-23346321e685@f9941",
+            "11ff92a3-7d11-4d6c-aad4-aea884fe7e4c",
+            "1da4825a-6800-4a63-b989-da44d19737a3@f9941",
+            "1dd20368-e68a-4452-98a7-6d5ed57ed781@f9941",
+            "23de18bf-80b4-4c6c-9b8f-293e08fd41a4@f9941",
+            "2d809eb9-424b-4340-b07b-f3f448b66719@f9941",
+            "375bbb81-0221-420b-85af-f1a9fbc75b45@f9941",
+            "3912b229-d894-43ca-ad28-8f434e8ab7e7@f9941",
+            "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e@f9941",
+            "5d89d73f-6cb0-4616-80bc-b161deeb032b@f9941",
+            "7829c993-8968-4370-b5cb-659d46c9ca46@f9941",
+            "8634a578-cde1-495e-aedc-a0690f155fd6@f9941",
+            "d13179e3-3f3b-479e-9676-2fa38275d27e@f9941",
+            "eedc200e-45bb-4685-b9a8-d848feb107cd@f9941"
+        ],
+        "028957867": [
+            "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f@f9941",
+            "128d261c-1f2f-48dc-a5fb-cbd9567cbd69@f9941",
+            "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7@f9941",
+            "2246ef25-67b0-46ae-8855-ccc91d220635@f9941",
+            "26403666-1646-4780-add6-14e42e242003",
+            "274f275d-2725-4af2-b692-85b5cb384da9@f9941",
+            "3609c81f-54cc-4706-8db0-f97fa705a22a@f9941",
+            "41fd1bdc-c86d-4e0b-8523-a6d5e606c122@f9941",
+            "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7@f9941",
+            "6ec51a40-61cd-48e8-8487-26e2b61983f1@f9941",
+            "81284fb5-1925-4c29-9e63-2f9367c06b77@f9941",
+            "8381eba7-b9f0-472a-8908-1dfdfa78c885@f9941",
+            "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8@f9941",
+            "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf@f9941",
+            "f341b290-6ab8-4b2c-97dc-12785ed3c286@f9941"
+        ],
+        "0d4e9140a": [
+            "072de59c-ebdb-4f40-8d74-754a97033785@f9941",
+            "09b7ff19-a58a-4d84-a2c3-667eb1d35100@f9941",
+            "0abc864b-7c2b-4592-a1cf-09ac7ea78808@f9941",
+            "215ba020-22bc-4448-b36d-6e6be4faa249@f9941",
+            "2212c02c-1ed0-4b67-af0c-a9bba933276c@f9941",
+            "251a8ae4-0b24-4886-9ca3-bb44334193b2@f9941",
+            "49a50e66-b007-4332-9359-c6782b5bd76f@f9941",
+            "4f6a9a82-c134-477e-aeec-0df3125067f3@f9941",
+            "61e33d50-0d2d-4b56-b79f-d39aa06ba82b@f9941",
+            "62b5d9f3-3377-4451-8aa2-43924b336e0b@f9941",
+            "7b7eed7b-262f-4eae-982f-af40606d2038@f9941",
+            "8cba7a6e-82f6-443b-bdd8-ce12b381e951@f9941",
+            "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6@f9941"
+        ],
+        "0b0c4a805": [
+            "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d@f9941",
+            "15110fc6-50b9-44db-8f4a-00002462f065@f9941",
+            "1f8a941a-ec25-4572-b26c-ecf9cf992af0@f9941",
+            "26f19223-f255-4a97-be99-326e4d1a97ee@f9941",
+            "2a58edc8-358b-4606-80a5-c5b0e0717c35@f9941",
+            "5a416405-59df-4f57-8203-342fb30fe264@f9941",
+            "64d61a12-edd4-4bd7-b346-ae83299413fd@f9941",
+            "683e51ab-e2c2-486e-8195-57d8bcce2dd8",
+            "69179665-b86d-4a12-8ec0-c1a59922509c@f9941",
+            "6bd0a98a-56f7-4050-b309-975f314f7a74@f9941",
+            "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5@f9941",
+            "710d4aa6-ae18-4374-8c61-49f7652f5f5a@f9941",
+            "73e1076a-ce8e-499d-b014-a41489d4865f@f9941",
+            "8eb0e255-0f03-4481-ba71-504bb82f8057@f9941",
+            "94484385-089b-43e2-bb38-95d66a4d3152@f9941",
+            "9915fc43-5a39-4c9d-a211-e26132cc01a3@f9941",
+            "a91961d1-dedd-46c1-a019-7398054f9533@f9941",
+            "e5cceb4b-804f-4c1c-8949-0c8002c6cdab@f9941"
+        ],
+        "05c36a302": [
+            "0c58eb27-7077-4295-b353-fd325063e00f@f9941",
+            "1425ccf9-1d6e-43fd-adfb-8d339edfce9b@f9941",
+            "177404d0-823b-4a94-a70d-2ba146c269e4@f9941",
+            "18d1063e-be1f-4134-a659-e6fcdf2e40ad@f9941",
+            "1a8af718-02e7-483c-a799-fbcff1b6fec3@f9941",
+            "29189d26-ea90-4cfe-834c-b9abae8f578c@f9941",
+            "318ecd75-6ee9-4cfc-8c8a-4c398b13567f@f9941",
+            "3433f93b-fdc5-4529-9632-211e0de047d9@f9941",
+            "4dfd3012-24bd-4c99-812b-c0fcc3536a26@f9941",
+            "6c9858ec-614c-4ab9-8bb1-49e43df602c5@f9941",
+            "75000924-81a6-40a8-b937-a085008cef2b",
+            "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b@f9941",
+            "b5d2f549-dda0-4c43-bd82-08df8984b2db@f9941",
+            "cc3606b2-eaf2-426f-b40f-062d647c9b9d@f9941",
+            "cdbfe388-9599-4eef-be64-da42c17c1637@f9941",
+            "ce6df4c8-d7f4-456e-afcb-e06a02cf80da@f9941",
+            "dbfef16e-3624-44c4-933e-08dee4bae4bb@f9941"
+        ],
+        "063a68470": [
+            "72d59a9a-118b-4dab-8497-5e6561f6b40d@f9941",
+            "9691baf1-53c5-4b81-945e-02e317971356@f9941",
+            "c80fb424-ef21-4dfc-b336-1d7ed638b6a9@f9941",
+            "fe289a7d-b6ea-4b64-99f6-208988deb9ce@f9941"
+        ],
+        "0b39dec56": [
+            "1990315f-102a-49bd-b169-9f363bb0a06e@f9941",
+            "6c362914-86a9-4b62-abd2-37ad44cb8cf8@f9941",
+            "c5165dc4-fc64-445d-977e-427b33efba2e@f9941"
+        ],
+        "096444626": [
+            "01bc4171-5052-4ff2-b90d-28f325efa7f5@f9941",
+            "06c9122b-13e1-4193-81d2-455d9edef31d@f9941",
+            "0c69d39e-e3c2-480d-876f-4314654f7b9b@f9941",
+            "1e315b13-5750-4a5b-8fb5-d99d1c9e5756@f9941",
+            "2784df61-b3ef-4b21-b7c6-436357a9a64f@f9941",
+            "2da6a914-49b0-4973-915b-b254deb43bc6@f9941",
+            "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e@f9941",
+            "30f81993-5f6d-496a-8f4a-20ebc04638a6@f9941",
+            "3fa03a31-1765-4465-8dd7-7d0a54d66d3d@f9941",
+            "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f@f9941",
+            "7221f577-4874-4dfe-b4be-7b58363aece8@f9941",
+            "7807767e-1365-4db4-a283-b6b007b291ce@f9941",
+            "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893@f9941",
+            "8b504d22-fa13-4c3c-824b-8d188bde109f@f9941",
+            "8f4efaf3-7151-43cf-8391-a465e319167c@f9941",
+            "95b3724c-3681-43c2-8663-e4b9f8a69fe5@f9941",
+            "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f@f9941",
+            "aabb955a-dad4-424e-888f-16801c940079@f9941",
+            "aed16e31-20c6-4d94-acf3-76b34967e4f6@f9941",
+            "b1378d51-7f40-4f84-901a-ff3f2b1358ae@f9941",
+            "dd2243e5-4c11-400e-b185-941b74e2b4be@f9941",
+            "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "01bc4171-5052-4ff2-b90d-28f325efa7f5",
+            "a2533",
+            "028957867",
+            "2d019",
+            "03779e6f5",
+            "fac2b",
+            "03eb27cd-2531-4845-9f2c-4f7df6fae78a",
+            "a2533",
+            "046b7d2f-4f0b-4024-87d2-23346321e685",
+            "a2533",
+            "05c36a302",
+            "228b0",
+            "063a68470",
+            "f2579",
+            "06c9122b-13e1-4193-81d2-455d9edef31d",
+            "a2533",
+            "072de59c-ebdb-4f40-8d74-754a97033785",
+            "a2533",
+            "09166ea45",
+            "c59ec",
+            "096444626",
+            "2c2e3",
+            "09b7ff19-a58a-4d84-a2c3-667eb1d35100",
+            "a2533",
+            "0a02c1d11",
+            "e77ba",
+            "0abc864b-7c2b-4592-a1cf-09ac7ea78808",
+            "a2533",
+            "0b0c4a805",
+            "63eb9",
+            "0b39dec56",
+            "9ca9b",
+            "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f",
+            "a2533",
+            "0baa48c3-cde8-413e-a393-176b229168a7",
+            "7aef7",
+            "0c58eb27-7077-4295-b353-fd325063e00f",
+            "a2533",
+            "0c69d39e-e3c2-480d-876f-4314654f7b9b",
+            "a2533",
+            "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d",
+            "a2533",
+            "0d1efd0c-601f-41f9-9c40-96aa6ac6b814",
+            "a2533",
+            "0d4e9140a",
+            "e0a3b",
+            "0fe797e22",
+            "db1fe",
+            "128d261c-1f2f-48dc-a5fb-cbd9567cbd69",
+            "a2533",
+            "1425ccf9-1d6e-43fd-adfb-8d339edfce9b",
+            "a2533",
+            "15110fc6-50b9-44db-8f4a-00002462f065",
+            "a2533",
+            "177404d0-823b-4a94-a70d-2ba146c269e4",
+            "a2533",
+            "18d1063e-be1f-4134-a659-e6fcdf2e40ad",
+            "a2533",
+            "1990315f-102a-49bd-b169-9f363bb0a06e",
+            "a2533",
+            "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7",
+            "a2533",
+            "1a8af718-02e7-483c-a799-fbcff1b6fec3",
+            "a2533",
+            "1da4825a-6800-4a63-b989-da44d19737a3",
+            "a2533",
+            "1dd20368-e68a-4452-98a7-6d5ed57ed781",
+            "a2533",
+            "1e315b13-5750-4a5b-8fb5-d99d1c9e5756",
+            "a2533",
+            "1f8a941a-ec25-4572-b26c-ecf9cf992af0",
+            "a2533",
+            "215ba020-22bc-4448-b36d-6e6be4faa249",
+            "a2533",
+            "2212c02c-1ed0-4b67-af0c-a9bba933276c",
+            "a2533",
+            "2246ef25-67b0-46ae-8855-ccc91d220635",
+            "a2533",
+            "23de18bf-80b4-4c6c-9b8f-293e08fd41a4",
+            "a2533",
+            "243ccf0d-4638-490d-acf9-beb9f354248a",
+            "a2533",
+            "251a8ae4-0b24-4886-9ca3-bb44334193b2",
+            "a2533",
+            "26f19223-f255-4a97-be99-326e4d1a97ee",
+            "a2533",
+            "274f275d-2725-4af2-b692-85b5cb384da9",
+            "a2533",
+            "2784df61-b3ef-4b21-b7c6-436357a9a64f",
+            "a2533",
+            "29189d26-ea90-4cfe-834c-b9abae8f578c",
+            "a2533",
+            "2a58edc8-358b-4606-80a5-c5b0e0717c35",
+            "a2533",
+            "2d809eb9-424b-4340-b07b-f3f448b66719",
+            "a2533",
+            "2da6a914-49b0-4973-915b-b254deb43bc6",
+            "a2533",
+            "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e",
+            "a2533",
+            "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e",
+            "a2533",
+            "30f81993-5f6d-496a-8f4a-20ebc04638a6",
+            "a2533",
+            "318ecd75-6ee9-4cfc-8c8a-4c398b13567f",
+            "a2533",
+            "33d27f47-9683-4e60-b7ed-b2d2351b4585",
+            "a2533",
+            "3433f93b-fdc5-4529-9632-211e0de047d9",
+            "a2533",
+            "3609c81f-54cc-4706-8db0-f97fa705a22a",
+            "a2533",
+            "375bbb81-0221-420b-85af-f1a9fbc75b45",
+            "a2533",
+            "3912b229-d894-43ca-ad28-8f434e8ab7e7",
+            "a2533",
+            "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e",
+            "a2533",
+            "3fa03a31-1765-4465-8dd7-7d0a54d66d3d",
+            "a2533",
+            "41fd1bdc-c86d-4e0b-8523-a6d5e606c122",
+            "a2533",
+            "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe",
+            "a2533",
+            "4431166e-9e20-43a9-abc3-cdd6dbee8a55",
+            "903b5",
+            "44385682-fec5-4671-9a55-d25e3185dbb4",
+            "a2533",
+            "496d1ebd-edc2-43fe-a6b2-1a223b0bb237",
+            "fafba",
+            "49a50e66-b007-4332-9359-c6782b5bd76f",
+            "a2533",
+            "4dfd3012-24bd-4c99-812b-c0fcc3536a26",
+            "a2533",
+            "4f6a9a82-c134-477e-aeec-0df3125067f3",
+            "a2533",
+            "54603ea0-56a2-4a3a-ae6c-2545c6eb06d9",
+            "8d399",
+            "5a416405-59df-4f57-8203-342fb30fe264",
+            "a2533",
+            "5d89d73f-6cb0-4616-80bc-b161deeb032b",
+            "a2533",
+            "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7",
+            "a2533",
+            "61e33d50-0d2d-4b56-b79f-d39aa06ba82b",
+            "a2533",
+            "62b5d9f3-3377-4451-8aa2-43924b336e0b",
+            "a2533",
+            "64d61a12-edd4-4bd7-b346-ae83299413fd",
+            "a2533",
+            "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f",
+            "a2533",
+            "69179665-b86d-4a12-8ec0-c1a59922509c",
+            "a2533",
+            "6b824151-3420-4bd7-843d-ab43f897e198",
+            "a2533",
+            "6bd0a98a-56f7-4050-b309-975f314f7a74",
+            "a2533",
+            "6c362914-86a9-4b62-abd2-37ad44cb8cf8",
+            "a2533",
+            "6c9858ec-614c-4ab9-8bb1-49e43df602c5",
+            "a2533",
+            "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5",
+            "a2533",
+            "6ec51a40-61cd-48e8-8487-26e2b61983f1",
+            "a2533",
+            "710d4aa6-ae18-4374-8c61-49f7652f5f5a",
+            "a2533",
+            "7221f577-4874-4dfe-b4be-7b58363aece8",
+            "a2533",
+            "72d59a9a-118b-4dab-8497-5e6561f6b40d",
+            "a2533",
+            "73e1076a-ce8e-499d-b014-a41489d4865f",
+            "a2533",
+            "7807767e-1365-4db4-a283-b6b007b291ce",
+            "a2533",
+            "7829c993-8968-4370-b5cb-659d46c9ca46",
+            "a2533",
+            "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893",
+            "a2533",
+            "7b403d69-d9d9-41f9-aecf-d00b829a10c4",
+            "a2533",
+            "7b7eed7b-262f-4eae-982f-af40606d2038",
+            "a2533",
+            "7bb2097f-61e4-45c7-b16a-5b236ce85c66",
+            "d4a64",
+            "7df6fdab-d379-4778-9cc5-7a83124c37a4",
+            "2a34a",
+            "80d29680-fda7-40cb-acca-f455299a02a9",
+            "26f19",
+            "81284fb5-1925-4c29-9e63-2f9367c06b77",
+            "a2533",
+            "8381eba7-b9f0-472a-8908-1dfdfa78c885",
+            "a2533",
+            "8634a578-cde1-495e-aedc-a0690f155fd6",
+            "a2533",
+            "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f",
+            "a2533",
+            "8b504d22-fa13-4c3c-824b-8d188bde109f",
+            "a2533",
+            "8cba7a6e-82f6-443b-bdd8-ce12b381e951",
+            "a2533",
+            "8eb0e255-0f03-4481-ba71-504bb82f8057",
+            "a2533",
+            "8f4efaf3-7151-43cf-8391-a465e319167c",
+            "a2533",
+            "94484385-089b-43e2-bb38-95d66a4d3152",
+            "a2533",
+            "95b3724c-3681-43c2-8663-e4b9f8a69fe5",
+            "a2533",
+            "9691baf1-53c5-4b81-945e-02e317971356",
+            "a2533",
+            "983c03f3-fb70-41aa-bdf7-16e461a18ffa",
+            "a2533",
+            "9915fc43-5a39-4c9d-a211-e26132cc01a3",
+            "a2533",
+            "9b116567-108e-431b-ac2c-6f608d8c5487",
+            "b3d72",
+            "9b78a2dd-822d-4c82-813f-43a63cb04617",
+            "f1318",
+            "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f",
+            "a2533",
+            "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f",
+            "a2533",
+            "a91961d1-dedd-46c1-a019-7398054f9533",
+            "a2533",
+            "aabb955a-dad4-424e-888f-16801c940079",
+            "a2533",
+            "aaec441a-ce6f-41c9-babc-6a5c791efe7c",
+            "a2533",
+            "abe4e579-9daa-4869-8087-a51332c15b0d",
+            "d808d",
+            "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b",
+            "a2533",
+            "aed16e31-20c6-4d94-acf3-76b34967e4f6",
+            "a2533",
+            "b1378d51-7f40-4f84-901a-ff3f2b1358ae",
+            "a2533",
+            "b5d2f549-dda0-4c43-bd82-08df8984b2db",
+            "a2533",
+            "c4d8ea12-d73c-44c6-a32e-2628d7cb874c",
+            "a2533",
+            "c5165dc4-fc64-445d-977e-427b33efba2e",
+            "a2533",
+            "c80fb424-ef21-4dfc-b336-1d7ed638b6a9",
+            "a2533",
+            "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8",
+            "a2533",
+            "c9183147-e459-4fba-8942-a985e0531836",
+            "7a517",
+            "cc3606b2-eaf2-426f-b40f-062d647c9b9d",
+            "a2533",
+            "cd14e4b4-714e-454d-add0-1c77c2af4948",
+            "26bda",
+            "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28",
+            "a2533",
+            "cdbfe388-9599-4eef-be64-da42c17c1637",
+            "a2533",
+            "ce6df4c8-d7f4-456e-afcb-e06a02cf80da",
+            "a2533",
+            "d13179e3-3f3b-479e-9676-2fa38275d27e",
+            "a2533",
+            "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf",
+            "a2533",
+            "d475e49a-317f-4eff-8dd1-29f29fa68199",
+            "a2533",
+            "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6",
+            "a2533",
+            "dbfef16e-3624-44c4-933e-08dee4bae4bb",
+            "a2533",
+            "dd2243e5-4c11-400e-b185-941b74e2b4be",
+            "a2533",
+            "e0cfcee2-b538-4016-98c2-808b5263e12f",
+            "0a6b2",
+            "e5cceb4b-804f-4c1c-8949-0c8002c6cdab",
+            "a2533",
+            "e9c09e37-2b80-4a33-8482-76a7611a218c",
+            "e6277",
+            "eedc200e-45bb-4685-b9a8-d848feb107cd",
+            "a2533",
+            "f341b290-6ab8-4b2c-97dc-12785ed3c286",
+            "a2533",
+            "f39830c0-c9b2-41ea-b59c-55877e6af1e3",
+            "a2533",
+            "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc",
+            "a2533",
+            "f753a75c-5db9-48d5-a717-d19b0e52bcb8",
+            "a2533",
+            "fa165e25-d7cc-49c4-8518-46a6b703081f",
+            "a2533",
+            "fae16f48-9fc0-4f8a-a415-e87741203de3",
+            "a2533",
+            "fbd641d8-0118-4e98-b193-ed11c687a467",
+            "f3662",
+            "fcbe3351-8153-43da-a91b-c71bd49c5dd8",
+            "1ba24",
+            "fe289a7d-b6ea-4b64-99f6-208988deb9ce",
+            "a2533"
+        ],
+        "native": [
+            "01bc4171-5052-4ff2-b90d-28f325efa7f5",
+            "3cd5e",
+            "03eb27cd-2531-4845-9f2c-4f7df6fae78a",
+            "e14c5",
+            "046b7d2f-4f0b-4024-87d2-23346321e685",
+            "c274e",
+            "06c9122b-13e1-4193-81d2-455d9edef31d",
+            "297c7",
+            "072de59c-ebdb-4f40-8d74-754a97033785",
+            "86f7a",
+            "09b7ff19-a58a-4d84-a2c3-667eb1d35100",
+            "e1395",
+            "0abc864b-7c2b-4592-a1cf-09ac7ea78808",
+            "4a65c",
+            "0b8f6e7f-c549-4950-902e-63ccb9ea5c2f",
+            "a927d",
+            "0c58eb27-7077-4295-b353-fd325063e00f",
+            "bbda3",
+            "0c69d39e-e3c2-480d-876f-4314654f7b9b",
+            "6c937",
+            "0cc3805c-3cdd-427e-9315-6aa5d8e8e63d",
+            "2dcb0",
+            "0d1efd0c-601f-41f9-9c40-96aa6ac6b814",
+            "09c40",
+            "128d261c-1f2f-48dc-a5fb-cbd9567cbd69",
+            "2d3ef",
+            "1425ccf9-1d6e-43fd-adfb-8d339edfce9b",
+            "d9bb0",
+            "15110fc6-50b9-44db-8f4a-00002462f065",
+            "a420e",
+            "177404d0-823b-4a94-a70d-2ba146c269e4",
+            "1525a",
+            "18d1063e-be1f-4134-a659-e6fcdf2e40ad",
+            "85c4a",
+            "1990315f-102a-49bd-b169-9f363bb0a06e",
+            "df140",
+            "19bb2569-13fc-4d8c-8003-cfa4ebf4c9c7",
+            "0d9e0",
+            "1a8af718-02e7-483c-a799-fbcff1b6fec3",
+            "bb022",
+            "1da4825a-6800-4a63-b989-da44d19737a3",
+            "926ab",
+            "1dd20368-e68a-4452-98a7-6d5ed57ed781",
+            "ba27e",
+            "1e315b13-5750-4a5b-8fb5-d99d1c9e5756",
+            "99eed",
+            "1f8a941a-ec25-4572-b26c-ecf9cf992af0",
+            "9489b",
+            "215ba020-22bc-4448-b36d-6e6be4faa249",
+            "88510",
+            "2212c02c-1ed0-4b67-af0c-a9bba933276c",
+            "78077",
+            "2246ef25-67b0-46ae-8855-ccc91d220635",
+            "b2b77",
+            "23de18bf-80b4-4c6c-9b8f-293e08fd41a4",
+            "1eda2",
+            "243ccf0d-4638-490d-acf9-beb9f354248a",
+            "998e8",
+            "251a8ae4-0b24-4886-9ca3-bb44334193b2",
+            "96f76",
+            "26f19223-f255-4a97-be99-326e4d1a97ee",
+            "0f17a",
+            "274f275d-2725-4af2-b692-85b5cb384da9",
+            "794cd",
+            "2784df61-b3ef-4b21-b7c6-436357a9a64f",
+            "396fb",
+            "29189d26-ea90-4cfe-834c-b9abae8f578c",
+            "15aed",
+            "2a58edc8-358b-4606-80a5-c5b0e0717c35",
+            "a69d9",
+            "2d809eb9-424b-4340-b07b-f3f448b66719",
+            "e2624",
+            "2da6a914-49b0-4973-915b-b254deb43bc6",
+            "130b4",
+            "2dfe6fe2-3a47-4abb-82dd-be769ca4f29e",
+            "c9a27",
+            "2e58e1c0-0704-4ba6-a001-b5d2832ccb8e",
+            "0b382",
+            "30f81993-5f6d-496a-8f4a-20ebc04638a6",
+            "c60ef",
+            "318ecd75-6ee9-4cfc-8c8a-4c398b13567f",
+            "9d2e4",
+            "33d27f47-9683-4e60-b7ed-b2d2351b4585",
+            "bdfa8",
+            "3433f93b-fdc5-4529-9632-211e0de047d9",
+            "6808b",
+            "3609c81f-54cc-4706-8db0-f97fa705a22a",
+            "184a4",
+            "375bbb81-0221-420b-85af-f1a9fbc75b45",
+            "5082f",
+            "3912b229-d894-43ca-ad28-8f434e8ab7e7",
+            "0f6cc",
+            "3c0a9daa-7679-4c2f-8edf-5fddd0beeb9e",
+            "b1166",
+            "3fa03a31-1765-4465-8dd7-7d0a54d66d3d",
+            "52ee3",
+            "41fd1bdc-c86d-4e0b-8523-a6d5e606c122",
+            "0d9e0",
+            "433a06eb-37b9-45e3-a51f-7b8e3e1d0ffe",
+            "18548",
+            "44385682-fec5-4671-9a55-d25e3185dbb4",
+            "2fd27",
+            "49a50e66-b007-4332-9359-c6782b5bd76f",
+            "dacd4",
+            "4dfd3012-24bd-4c99-812b-c0fcc3536a26",
+            "96776",
+            "4f6a9a82-c134-477e-aeec-0df3125067f3",
+            "91bec",
+            "5a416405-59df-4f57-8203-342fb30fe264",
+            "c5eed",
+            "5d89d73f-6cb0-4616-80bc-b161deeb032b",
+            "5b6e7",
+            "5fa82351-5a58-4d51-9bb5-96b8a28e6bd7",
+            "a7e83",
+            "61e33d50-0d2d-4b56-b79f-d39aa06ba82b",
+            "99138",
+            "62b5d9f3-3377-4451-8aa2-43924b336e0b",
+            "fe71f",
+            "64d61a12-edd4-4bd7-b346-ae83299413fd",
+            "6f63c",
+            "65b2fcaa-4d4a-4e89-8d89-d3cfd2cbc94f",
+            "2b462",
+            "69179665-b86d-4a12-8ec0-c1a59922509c",
+            "7871f",
+            "6b824151-3420-4bd7-843d-ab43f897e198",
+            "ed2a0",
+            "6bd0a98a-56f7-4050-b309-975f314f7a74",
+            "1e778",
+            "6c362914-86a9-4b62-abd2-37ad44cb8cf8",
+            "2f9d7",
+            "6c9858ec-614c-4ab9-8bb1-49e43df602c5",
+            "99981",
+            "6ec3d25c-cccf-44cf-87e9-f70ae33e65a5",
+            "1a8c3",
+            "6ec51a40-61cd-48e8-8487-26e2b61983f1",
+            "352d5",
+            "710d4aa6-ae18-4374-8c61-49f7652f5f5a",
+            "f79a3",
+            "7221f577-4874-4dfe-b4be-7b58363aece8",
+            "f2aa1",
+            "72d59a9a-118b-4dab-8497-5e6561f6b40d",
+            "63f59",
+            "73e1076a-ce8e-499d-b014-a41489d4865f",
+            "6d9ce",
+            "7807767e-1365-4db4-a283-b6b007b291ce",
+            "0d831",
+            "7829c993-8968-4370-b5cb-659d46c9ca46",
+            "5082f",
+            "7a47f2d0-f3fe-4617-8c4b-a27e2d6bc893",
+            "dd8b7",
+            "7b403d69-d9d9-41f9-aecf-d00b829a10c4",
+            "df794",
+            "7b7eed7b-262f-4eae-982f-af40606d2038",
+            "35f9b",
+            "81284fb5-1925-4c29-9e63-2f9367c06b77",
+            "70d5f",
+            "8381eba7-b9f0-472a-8908-1dfdfa78c885",
+            "b97bb",
+            "8634a578-cde1-495e-aedc-a0690f155fd6",
+            "e2624",
+            "8a5d91f9-ed8b-4dbc-8aba-6e4ab270cb9f",
+            "a1ce0",
+            "8b504d22-fa13-4c3c-824b-8d188bde109f",
+            "132ab",
+            "8cba7a6e-82f6-443b-bdd8-ce12b381e951",
+            "fb030",
+            "8eb0e255-0f03-4481-ba71-504bb82f8057",
+            "0abb9",
+            "8f4efaf3-7151-43cf-8391-a465e319167c",
+            "42be5",
+            "94484385-089b-43e2-bb38-95d66a4d3152",
+            "08a47",
+            "95b3724c-3681-43c2-8663-e4b9f8a69fe5",
+            "34c37",
+            "9691baf1-53c5-4b81-945e-02e317971356",
+            "78da4",
+            "983c03f3-fb70-41aa-bdf7-16e461a18ffa",
+            "662cb",
+            "9915fc43-5a39-4c9d-a211-e26132cc01a3",
+            "b2044",
+            "a1a574d1-6a0b-43dd-af41-ac7d9f15b14f",
+            "230bc",
+            "a77ac099-081a-4dc8-9ef3-c4b0afdb8d3f",
+            "e3b92",
+            "a91961d1-dedd-46c1-a019-7398054f9533",
+            "23446",
+            "aabb955a-dad4-424e-888f-16801c940079",
+            "f0b51",
+            "aaec441a-ce6f-41c9-babc-6a5c791efe7c",
+            "38ad6",
+            "ad8b4106-7ccf-4b85-8cfd-7bbc469c3c3b",
+            "5c7c5",
+            "aed16e31-20c6-4d94-acf3-76b34967e4f6",
+            "5fcda",
+            "b1378d51-7f40-4f84-901a-ff3f2b1358ae",
+            "d5be9",
+            "b5d2f549-dda0-4c43-bd82-08df8984b2db",
+            "e68fd",
+            "c4d8ea12-d73c-44c6-a32e-2628d7cb874c",
+            "c9ec0",
+            "c5165dc4-fc64-445d-977e-427b33efba2e",
+            "024e1",
+            "c80fb424-ef21-4dfc-b336-1d7ed638b6a9",
+            "bde26",
+            "c8bd3ae3-2b5a-408c-8b33-0eba8a68a9a8",
+            "7d3ef",
+            "cc3606b2-eaf2-426f-b40f-062d647c9b9d",
+            "9e5f6",
+            "cd331f62-c9a2-40e0-8cf9-9c9dee6f8f28",
+            "99415",
+            "cdbfe388-9599-4eef-be64-da42c17c1637",
+            "15f7b",
+            "ce6df4c8-d7f4-456e-afcb-e06a02cf80da",
+            "c7a1c",
+            "d13179e3-3f3b-479e-9676-2fa38275d27e",
+            "37323",
+            "d45f5dc4-6140-49ad-918b-76bb9e7bcfdf",
+            "94d62",
+            "d475e49a-317f-4eff-8dd1-29f29fa68199",
+            "23846",
+            "d61f6a6a-3ca9-45ba-92e8-c34edc8493d6",
+            "b2410",
+            "dbfef16e-3624-44c4-933e-08dee4bae4bb",
+            "16e2f",
+            "dd2243e5-4c11-400e-b185-941b74e2b4be",
+            "f9e39",
+            "e5cceb4b-804f-4c1c-8949-0c8002c6cdab",
+            "6c174",
+            "eedc200e-45bb-4685-b9a8-d848feb107cd",
+            "6b00b",
+            "f341b290-6ab8-4b2c-97dc-12785ed3c286",
+            "b1ea6",
+            "f39830c0-c9b2-41ea-b59c-55877e6af1e3",
+            "40904",
+            "f431f4b5-a7f9-4992-a608-fb6ce57b5cbc",
+            "b6453",
+            "f753a75c-5db9-48d5-a717-d19b0e52bcb8",
+            "75167",
+            "fa165e25-d7cc-49c4-8518-46a6b703081f",
+            "55024",
+            "fae16f48-9fc0-4f8a-a415-e87741203de3",
+            "6a5ae",
+            "fe289a7d-b6ea-4b64-99f6-208988deb9ce",
+            "e88f3"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {
+        ".cconb": [
+            "0baa48c3-cde8-413e-a393-176b229168a7",
+            "4431166e-9e20-43a9-abc3-cdd6dbee8a55",
+            "496d1ebd-edc2-43fe-a6b2-1a223b0bb237",
+            "54603ea0-56a2-4a3a-ae6c-2545c6eb06d9",
+            "7bb2097f-61e4-45c7-b16a-5b236ce85c66",
+            "80d29680-fda7-40cb-acca-f455299a02a9",
+            "9b78a2dd-822d-4c82-813f-43a63cb04617",
+            "abe4e579-9daa-4869-8087-a51332c15b0d",
+            "c9183147-e459-4fba-8942-a985e0531836",
+            "cd14e4b4-714e-454d-add0-1c77c2af4948",
+            "e0cfcee2-b538-4016-98c2-808b5263e12f"
+        ]
+    },
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

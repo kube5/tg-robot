@@ -1,0 +1,108 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "01830b900",
+        "0872ce6c-932a-4f2b-a12f-7d7b815b41bf",
+        "08f55070-fe81-4123-9c8e-12b9f20e979f",
+        "12b287c7-4d11-405d-b787-6b4860182b43",
+        "173537ff-f73f-4f81-ba1a-fe5af0d7d75d",
+        "5a6a58c1-ebe1-454f-af2d-4b00c00d07d5",
+        "5ec050d5-042e-4bc5-946c-ef452404d8c8",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "9b7a57f5-8ae5-4b07-918a-d64fe1e26c65",
+        "b0c227dc-46c8-40f7-90c4-bd6a8191c799",
+        "cbdd0d87-f9b4-406f-9f85-44fa470b389c",
+        "dd28d467-5a51-4424-b945-878e0efc6664"
+    ],
+    "paths": {
+        "5a6a58c1-ebe1-454f-af2d-4b00c00d07d5": [
+            "config/BuffBaseJson",
+            "cc.JsonAsset"
+        ],
+        "173537ff-f73f-4f81-ba1a-fe5af0d7d75d": [
+            "config/BuffLevelJson",
+            "cc.JsonAsset"
+        ],
+        "b0c227dc-46c8-40f7-90c4-bd6a8191c799": [
+            "config/BuildBaseJson",
+            "cc.JsonAsset"
+        ],
+        "cbdd0d87-f9b4-406f-9f85-44fa470b389c": [
+            "config/BuildGoldJson",
+            "cc.JsonAsset"
+        ],
+        "9b7a57f5-8ae5-4b07-918a-d64fe1e26c65": [
+            "config/CardBaseJson",
+            "cc.JsonAsset"
+        ],
+        "12b287c7-4d11-405d-b787-6b4860182b43": [
+            "config/CardLevelJson",
+            "cc.JsonAsset"
+        ],
+        "5ec050d5-042e-4bc5-946c-ef452404d8c8": [
+            "config/CardSuitJson",
+            "cc.JsonAsset"
+        ],
+        "0872ce6c-932a-4f2b-a12f-7d7b815b41bf": [
+            "config/RoleSkinJson",
+            "cc.JsonAsset"
+        ],
+        "dd28d467-5a51-4424-b945-878e0efc6664": [
+            "prefab/ui/BlockInputView",
+            "cc.Prefab"
+        ],
+        "08f55070-fe81-4123-9c8e-12b9f20e979f": [
+            "prefab/ui/FloatingView",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "01830b900": [
+            "08f55070-fe81-4123-9c8e-12b9f20e979f",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "01830b900",
+            "4f709",
+            "0872ce6c-932a-4f2b-a12f-7d7b815b41bf",
+            "dcc7f",
+            "12b287c7-4d11-405d-b787-6b4860182b43",
+            "f63a9",
+            "173537ff-f73f-4f81-ba1a-fe5af0d7d75d",
+            "6f1fb",
+            "5a6a58c1-ebe1-454f-af2d-4b00c00d07d5",
+            "94126",
+            "5ec050d5-042e-4bc5-946c-ef452404d8c8",
+            "a8eef",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "a2533",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+            "32aca",
+            "9b7a57f5-8ae5-4b07-918a-d64fe1e26c65",
+            "a622d",
+            "b0c227dc-46c8-40f7-90c4-bd6a8191c799",
+            "0948d",
+            "cbdd0d87-f9b4-406f-9f85-44fa470b389c",
+            "ef510",
+            "dd28d467-5a51-4424-b945-878e0efc6664",
+            "10d79"
+        ],
+        "native": [
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
